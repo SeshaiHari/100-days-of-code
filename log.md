@@ -16,6 +16,7 @@
         - [Day 10: 2017-01-09](#day-10-2017-01-09)
         - [Day 11: 2017-01-10](#day-11-2017-01-10)
         - [Day 12: 2017-01-11](#day-12-2017-01-11)
+        - [Day 13: 2017-01-12](#day-13-2017-01-12)
 
 <!-- /TOC -->
 
@@ -289,6 +290,30 @@ More Twitter-bot!
 ---
 
 ### Day 12: 2017-01-11
+
+**Today's Progress**:
+
+AM: Archer bot get random user, Completed
+
+PM: Set up the [#301DaysOfCode](https://github.com/spences10/301-days-of-code) repo, added retweet function to archerbot
+
+**Thoughts**:
+
+Not sure if setting up a repo could be classed as part of my hour of code, also I have one of my repos which is personal but also work related have several PRs to it
+
+**Up Next**:
+
+More archerbot! Going to attempt to add [sentiment-3](https://market.mashape.com/vivekn/sentiment-3) and functionality to specific phrases. Add functionality for 'Phrasing?' :smile:
+
+**Link(s) to work**:
+
+[#301DaysOfCode](https://github.com/spences10/301-days-of-code)
+
+[archer-twitter-bot](https://github.com/spences10/archer-twitter-bot)
+
+---
+
+### Day 13: 2017-01-12
 
 **Today's Progress**:
 
