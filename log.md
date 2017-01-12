@@ -17,6 +17,7 @@
         - [Day 11: 2017-01-10](#day-11-2017-01-10)
         - [Day 12: 2017-01-11](#day-12-2017-01-11)
         - [Day 13: 2017-01-12](#day-13-2017-01-12)
+        - [Day 14: 2017-01-13](#day-14-2017-01-13)
 
 <!-- /TOC -->
 
@@ -314,6 +315,28 @@ More archerbot! Going to attempt to add [sentiment-3](https://market.mashape.com
 ---
 
 ### Day 13: 2017-01-12
+
+**Today's Progress**:
+
+AM: Added Archer Twitter bot favorite function with error handling
+
+PM: Added Phrasing? responses and post tweet media, I need to work out how to serve html images so I can attach to tweet
+
+**Thoughts**:
+
+I'm learning a lot about Archer doing this :fire:
+
+**Up Next**:
+
+Archer bot user interaction via Twitter.stream using callbacks :scream:, posting giph relating to query string :question:
+
+**Link(s) to work**:
+
+[archer-twitter-bot](https://github.com/spences10/archer-twitter-bot)
+
+---
+
+### Day 14: 2017-01-13
 
 **Today's Progress**:
 
