@@ -19,6 +19,7 @@
         - [Day 013: 2017-01-12](#day-013-2017-01-12)
         - [Day 014: 2017-01-13](#day-014-2017-01-13)
         - [Day 015: 2017-01-14](#day-015-2017-01-14)
+        - [Day 016: 2017-01-15](#day-016-2017-01-15)
 
 <!-- /TOC -->
 
@@ -358,6 +359,27 @@ Add reply to user for Phrasing with Archer bot
 ---
 
 ### Day 015: 2017-01-14
+
+**Today's Progress**:
+
+AM: Looked into using [request](https://www.npmjs.com/package/request#star) on npm, got an example working `request('https://m.popkey.co/54f65e/YNzqV.gif').pipe(fs.createWriteStream('doodle.gif'));
+` pretty straight forward so looking to get that working in Archer bot with replies [which aren't working]
+
+PM: Created PR for [100DaysOfCode-twitter-bot](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot) project of teh day functionality using unique random array. Played with getting the giphy api working, not much joy so far
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[archer-twitter-bot](https://github.com/spences10/archer-twitter-bot)
+
+[project-of-the-day](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/25/)
+
+---
+
+### Day 016: 2017-01-15
 
 **Today's Progress**:
 
