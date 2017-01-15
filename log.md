@@ -20,6 +20,7 @@
         - [Day 014: 2017-01-13](#day-014-2017-01-13)
         - [Day 015: 2017-01-14](#day-015-2017-01-14)
         - [Day 016: 2017-01-15](#day-016-2017-01-15)
+        - [Day 017: 2017-01-16](#day-017-2017-01-16)
 
 <!-- /TOC -->
 
@@ -380,6 +381,28 @@ PM: Created PR for [100DaysOfCode-twitter-bot](https://github.com/freeCodeCamp/1
 ---
 
 ### Day 016: 2017-01-15
+
+**Today's Progress**:
+
+AM: Worked on adding what I have learned on Archer bot into my spences10 twitter bot, add error handling and more to the query strings. Went back to Archer bot managed to get Giphy api working able to save and tweet random gif but traversing the JSON to get a search result is taking a lot longer that expected. Ended up pushing the functionality to the dev branch on GitHub
+
+**Thoughts**:
+
+I need to stop dicking around with the Tweet-bot stuff and progress the FreeCodeCamp(:fire:) curriculum, it has been a learning experience in what I don't know about [node, npm, JavaScript...]
+
+**Up Next**:
+
+Wikipedia viewer for FCC!!!!!!!
+
+**Link(s) to work**:
+
+[archer-twitter-bot](https://github.com/spences10/archer-twitter-bot)
+
+[Twitter-McTwitbot](https://github.com/spences10/archer-twitter-bot/tree/dev)
+
+---
+
+### Day 017: 2017-01-16
 
 **Today's Progress**:
 
