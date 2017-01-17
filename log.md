@@ -21,6 +21,8 @@
         - [Day 015: 2017-01-14](#day-015-2017-01-14)
         - [Day 016: 2017-01-15](#day-016-2017-01-15)
         - [Day 017: 2017-01-16](#day-017-2017-01-16)
+        - [Day 018: 2017-01-17](#day-018-2017-01-17)
+        - [Day 019: 2017-01-18](#day-019-2017-01-18)
 
 <!-- /TOC -->
 
@@ -403,6 +405,59 @@ Wikipedia viewer for FCC!!!!!!!
 ---
 
 ### Day 017: 2017-01-16
+
+**Today's Progress**:
+
+AM: Read some really good node.js documentation the other night and decided to use what I had learned on my twitter bot, changing the file structure and adding Heroku environment variables instead of the config keys for the bot
+
+PM: FreeCodeCamp(:fire:) Wikipedia viewer zipline progress made
+
+**Thoughts**:
+
+Deployment to Heroku was smooth with minimal issues
+
+**Up Next**:
+
+Use the Twitchtv JSON API?? Maybe something in node.js, the Archer bot is still broken
+
+**Link(s) to work**:
+
+[RisingStack node-hero](https://risingstack.com/resources/node-hero)
+
+[Twitter-McTwitbot](https://github.com/spences10/archer-twitter-bot/tree/dev)
+
+[Wikipedia viewer on GitHub :octocat:](https://github.com/spences10/FreeCodeCamp/tree/master/Wikipedia%20Viewer)
+
+[Wikipedia viewer on CodePen](http://codepen.io/spences10/full/GrjbXe/)
+
+---
+
+### Day 018: 2017-01-17
+
+**Today's Progress**:
+
+AM: Added README for my FreeCodeCamp(:fire:) repo
+
+PM: Created twitter-bot-bootstrap for use with Node.js and `twit`
+
+**Thoughts**:
+
+**Up Next**:
+
+For the bootstrap I'll need to detail the following on the README.md:
+- Heroku CLI
+- Heroku Procfile
+- Heroku variables
+
+**Link(s) to work**:
+
+[spences10 FreeCodeCamp(:fire:) on GitHub :octocat:](https://github.com/spences10/FreeCodeCamp)
+
+[twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+---
+
+### Day 019: 2017-01-18
 
 **Today's Progress**:
 
