@@ -23,6 +23,7 @@
         - [Day 017: 2017-01-16](#day-017-2017-01-16)
         - [Day 018: 2017-01-17](#day-018-2017-01-17)
         - [Day 019: 2017-01-18](#day-019-2017-01-18)
+        - [Day 020: 2017-01-19](#day-020-2017-01-19)
 
 <!-- /TOC -->
 
@@ -458,6 +459,30 @@ For the bootstrap I'll need to detail the following on the README.md:
 ---
 
 ### Day 019: 2017-01-18
+
+**Today's Progress**: 
+
+AM: Got broken Heroku app working `worker: node index.js` in the `Procfile` in place of `worker: node bot.js` which was why it was crashing.
+
+PM: Created a detailed README for anyone wanting to use the bootstrap, added the bootstrap to the [awesome-twitter-bots](https://github.com/amandeepmittal/awesome-twitter-bots) repo.
+
+**Thoughts**:
+
+Think I'm done with Twitter bots! :confused:
+
+**Up Next**:
+
+The FreeCodeCamp(:fire:) Intermediate Algorithm Scripting or Use the Twitch.tv JSON API
+
+**Link(s) to work**:
+
+[twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+[awesome-twitter-bots](https://github.com/amandeepmittal/awesome-twitter-bots)
+
+---
+
+### Day 020: 2017-01-19
 
 **Today's Progress**:
 
