@@ -24,6 +24,7 @@
         - [Day 018: 2017-01-17](#day-018-2017-01-17)
         - [Day 019: 2017-01-18](#day-019-2017-01-18)
         - [Day 020: 2017-01-19](#day-020-2017-01-19)
+        - [Day 021: 2017-01-20](#day-021-2017-01-20)
 
 <!-- /TOC -->
 
@@ -483,6 +484,26 @@ The FreeCodeCamp(:fire:) Intermediate Algorithm Scripting or Use the Twitch.tv J
 ---
 
 ### Day 020: 2017-01-19
+
+**Today's Progress**:
+
+AM: Added some more detail to the README on my Twitter bot bootstrap, did one of the Intermediate Algorithm Scripting FreeCodeCamp(:fire:) challenges
+
+PM: Moar detail to the Twitter bot bootstrap README and some detail for a blog post.
+
+**Thoughts**:
+
+Still learning loads about Node.js and Twitter, feeling pretty burned out the last few days.
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+---
+
+### Day 021: 2017-01-20
 
 **Today's Progress**:
 
