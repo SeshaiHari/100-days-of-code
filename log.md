@@ -25,6 +25,7 @@
         - [Day 019: 2017-01-18](#day-019-2017-01-18)
         - [Day 020: 2017-01-19](#day-020-2017-01-19)
         - [Day 021: 2017-01-20](#day-021-2017-01-20)
+        - [Day 022: 2017-01-21](#day-022-2017-01-21)
 
 <!-- /TOC -->
 
@@ -504,6 +505,26 @@ Still learning loads about Node.js and Twitter, feeling pretty burned out the la
 ---
 
 ### Day 021: 2017-01-20
+
+**Today's Progress**:
+
+AM: Learned more about callbacks in node.js with [RisingStack](https://www.youtube.com/watch?v=ca7HAqbfd90) and [Kyle Robinson Young](https://www.youtube.com/watch?v=qN0dkXj7jc0)
+
+PM: Looked into using [level](https://github.com/Level/level)
+
+**Thoughts**:
+
+Not a great deal going on, Friday yo! Beer time :beers:
+
+**Up Next**:
+
+Going to look at some form of logging for the #100DaysOfCode Twitter bot so users aren't getting hit wil loads of tweets
+
+**Link(s) to work**:
+
+---
+
+### Day 022: 2017-01-21
 
 **Today's Progress**:
 
