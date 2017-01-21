@@ -26,6 +26,7 @@
         - [Day 020: 2017-01-19](#day-020-2017-01-19)
         - [Day 021: 2017-01-20](#day-021-2017-01-20)
         - [Day 022: 2017-01-21](#day-022-2017-01-21)
+        - [Day 023: 2017-01-22](#day-023-2017-01-22)
 
 <!-- /TOC -->
 
@@ -525,6 +526,70 @@ Going to look at some form of logging for the #100DaysOfCode Twitter bot so user
 ---
 
 ### Day 022: 2017-01-21
+
+**Today's Progress**:
+
+AM: Spent an hour and a half trying to work out how to use level, I'm so confused with it...
+
+Code:
+
+```
+var db = require('./db', {
+  valueEncoding: 'json'
+})
+
+db.put('name', 'ID001')
+db.put('name', 'ID002')
+db.put('name', 'ID003')
+db.put('name', 'ID004')
+db.put('name', 'ID005')
+db.put('name', 'ID006')
+db.put('name', 'ID006')
+
+db.list(function(key, value) {
+        console.log(key + ': ' + value);
+    });
+```
+
+Terminal output:
+
+```
+spences10:~/workspace/level-db $ node app.js
+value: ID006
+spences10:~/workspace/level-db $ node app.js
+value: ID006
+spences10:~/workspace/level-db $ node app.js
+value: ID006
+spences10:~/workspace/level-db $ node app.js
+value: ID004
+spences10:~/workspace/level-db $ node app.js
+value: ID006
+spences10:~/workspace/level-db $ node app.js
+value: ID005
+spences10:~/workspace/level-db $ node app.js
+value: ID006
+spences10:~/workspace/level-db $ node app.js
+```
+
+WTF??
+
+I want to be able to read the data that's in the db, I'm guessing I'm missing something really simple.
+
+PM: Did some [Intermediate Algorithm Scripting](https://github.com/spences10/FreeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
+
+**Thoughts**:
+
+Really struggling with [level](https://github.com/Level/level), something deemed really simple... don't know what I'm missing
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[Intermediate Algorithm Scripting](https://github.com/spences10/FreeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
+
+---
+
+### Day 023: 2017-01-22
 
 **Today's Progress**:
 
