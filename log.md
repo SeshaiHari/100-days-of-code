@@ -28,6 +28,7 @@
         - [Day 022: 2017-01-21](#day-022-2017-01-21)
         - [Day 023: 2017-01-22](#day-023-2017-01-22)
         - [Day 024: 2017-01-23](#day-024-2017-01-23)
+        - [Day 025: 2017-01-24](#day-025-2017-01-24)
 
 <!-- /TOC -->
 
@@ -613,6 +614,32 @@ WTF LevelDB! Not really, well, ok wtf Scott!!
 ---
 
 ### Day 024: 2017-01-23
+
+**Today's Progress**:
+
+AM: Followed along on the Node.js courses [here](https://www.youtube.com/watch?v=ioxgbkxIGwE&index=4&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR) with [Maximilian](https://twitter.com/maxedapps) 
+
+Set up a local page 'Hello World! learned more about `module.exports` good stuff
+
+PM: Started the [freeCodeCamp(:fire:) beta site](http://beta.freecodecamp.com/en/spences10)
+
+**Thoughts**:
+
+Learning so much about node :+1:
+
+**Up Next**:
+
+More node.js videos
+
+**Link(s) to work**:
+
+I'll add the node.js to GitHub soon
+
+[my freeCodeCamp(:fire:) beta site profile](http://beta.freecodecamp.com/en/spences10)
+
+---
+
+### Day 025: 2017-01-24
 
 **Today's Progress**:
 
