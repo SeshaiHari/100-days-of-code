@@ -29,6 +29,7 @@
         - [Day 023: 2017-01-22](#day-023-2017-01-22)
         - [Day 024: 2017-01-23](#day-024-2017-01-23)
         - [Day 025: 2017-01-24](#day-025-2017-01-24)
+        - [Day 026: 2017-01-25](#day-026-2017-01-25)
 
 <!-- /TOC -->
 
@@ -640,6 +641,28 @@ I'll add the node.js to GitHub soon
 ---
 
 ### Day 025: 2017-01-24
+
+**Today's Progress**:
+
+AM: Gawped at other users GitHub profiles :heart: [KingPixil](https://github.com/KingPixil) :heart:
+
+PM: Followed along with more [node.js basics](https://www.youtube.com/watch?v=tiMLxUKrB-g&list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR&index=6)
+
+**Thoughts**:
+
+Tired, so, so tired
+
+**Up Next**:
+
+Going to take a look at my personal site
+
+**Link(s) to work**:
+
+[My GitHub repo](https://github.com/spences10/node-basics)
+
+---
+
+### Day 026: 2017-01-25
 
 **Today's Progress**:
 
