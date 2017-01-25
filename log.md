@@ -30,6 +30,7 @@
         - [Day 024: 2017-01-23](#day-024-2017-01-23)
         - [Day 025: 2017-01-24](#day-025-2017-01-24)
         - [Day 026: 2017-01-25](#day-026-2017-01-25)
+        - [Day 027: 2017-01-26](#day-027-2017-01-26)
 
 <!-- /TOC -->
 
@@ -663,6 +664,28 @@ Going to take a look at my personal site
 ---
 
 ### Day 026: 2017-01-25
+
+**Today's Progress**:
+
+AM: Looked into a bug on the #100DaysOfCode twitter bot tweeting users twice
+
+PM: Fixed #100DaysOfCode twitter bot tweeting users twice, made a new bot for use made from my bootstrap, it's going to replace my spences10-twitter-bot
+
+**Thoughts**:
+
+Tired, still love tinkering with twit with node 
+
+**Up Next**:
+
+Going to use `sparkai` on the @DroidScott twitter account
+
+**Link(s) to work**:
+
+https://github.com/spences10/twitter-bot-twit
+
+---
+
+### Day 027: 2017-01-26
 
 **Today's Progress**:
 
