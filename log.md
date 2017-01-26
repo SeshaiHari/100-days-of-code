@@ -31,6 +31,7 @@
         - [Day 025: 2017-01-24](#day-025-2017-01-24)
         - [Day 026: 2017-01-25](#day-026-2017-01-25)
         - [Day 027: 2017-01-26](#day-027-2017-01-26)
+        - [Day 028: 2017-01-27](#day-028-2017-01-27)
 
 <!-- /TOC -->
 
@@ -681,11 +682,35 @@ Going to use `sparkai` on the @DroidScott twitter account
 
 **Link(s) to work**:
 
-https://github.com/spences10/twitter-bot-twit
+[https://github.com/spences10/twitter-bot-twit](https://github.com/spences10/twitter-bot-twit)
 
 ---
 
 ### Day 027: 2017-01-26
+
+**Today's Progress**:
+
+AM: Looked at incorporating [`sparkai`](https://www.npmjs.com/package/sparkai) into my @DroidScott twitter account
+
+PM: Made some changes on my Twitter bot repo, implemented WakaTime, got `sparkai` working but needs more added.
+
+**Thoughts**:
+
+Theres a fir bit to `sparkai` and Markov Chains :sweat_smile:
+
+**Up Next**:
+
+`sparkai` into twitter bot
+
+**Link(s) to work**:
+
+[twitter-bot-twit](https://github.com/spences10/twitter-bot-twit)
+
+[@DroidScott](https://twitter.com/droidscott)
+
+---
+
+### Day 028: 2017-01-27
 
 **Today's Progress**:
 
