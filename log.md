@@ -33,6 +33,7 @@
         - [Day 027: 2017-01-26](#day-027-2017-01-26)
         - [Day 028: 2017-01-27](#day-028-2017-01-27)
         - [Day 029: 2017-01-28](#day-029-2017-01-28)
+        - [Day 030: 2017-01-29](#day-030-2017-01-29)
 
 <!-- /TOC -->
 
@@ -732,6 +733,32 @@ PM: Completed post on making your own Twitter bot
 ---
 
 ### Day 029: 2017-01-28
+
+**Today's Progress**:
+
+AM: More [twitter-bot-playground](https://github.com/spences10/twitter-bot-playground) was just refactoring, published the Twitter bot bootstrap [here](https://spences10.github.io/2017/01/28/twitter-bot-bootstrap.html) and [here](https://medium.com/@spences10/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.nkoek6dsy)
+
+PM: Made some changes for sub-queries and moved responses on the Twitter bot bootstrap
+
+**Thoughts**:
+
+:blue_heart::blue_heart: [WakaTime](https://wakatime.com/@spences10) :blue_heart::blue_heart: it appears that I spend more time doing markdown than anything else :flushed:
+
+**Up Next**:
+
+More changes to the Twitter bot bootstrap, better query strings with sub-queries
+
+**Link(s) to work**:
+
+[easily-set-up-your-own-twitter-bot](https://medium.com/@spences10/easily-set-up-your-own-twitter-bot-4aeed5e61f7f#.nkoek6dsy)
+
+[twitter-bot-playground](https://github.com/spences10/twitter-bot-playground)
+
+[twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+---
+
+### Day 030: 2017-01-29
 
 **Today's Progress**:
 
