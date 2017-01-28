@@ -32,6 +32,7 @@
         - [Day 026: 2017-01-25](#day-026-2017-01-25)
         - [Day 027: 2017-01-26](#day-027-2017-01-26)
         - [Day 028: 2017-01-27](#day-028-2017-01-27)
+        - [Day 029: 2017-01-28](#day-029-2017-01-28)
 
 <!-- /TOC -->
 
@@ -711,6 +712,26 @@ Theres a fir bit to `sparkai` and Markov Chains :sweat_smile:
 ---
 
 ### Day 028: 2017-01-27
+
+**Today's Progress**:
+
+AM: Worked on getting `sparkai` incorporated into twitter bot
+
+PM: Completed post on making your own Twitter bot
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[100DaysOfCode-twitter-bot/pull/36](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/36)
+
+[twitter-bot-twit](https://github.com/spences10/twitter-bot-twit)
+
+---
+
+### Day 029: 2017-01-28
 
 **Today's Progress**:
 
