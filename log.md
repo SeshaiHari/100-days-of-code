@@ -34,6 +34,7 @@
         - [Day 028: 2017-01-27](#day-028-2017-01-27)
         - [Day 029: 2017-01-28](#day-029-2017-01-28)
         - [Day 030: 2017-01-29](#day-030-2017-01-29)
+        - [Day 031: 2017-01-30](#day-031-2017-01-30)
 
 <!-- /TOC -->
 
@@ -759,6 +760,37 @@ More changes to the Twitter bot bootstrap, better query strings with sub-queries
 ---
 
 ### Day 030: 2017-01-29
+
+**Today's Progress**:
+
+AM: Submitted another [PR](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/40) for the #100DaysOfCode Twitter bot, incorporated some [JS standard](https://github.com/feross/standard) in there too, badge time yo!
+
+If you haven't checked it out please do it's a great resource.
+
+[![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](http://standardjs.com/)
+
+PM: Started playing around with LevelDB again, created project with some example code in there, still early stages.
+
+**Thoughts**:
+
+I started coding on my MS Surface as I wanted to record WakaTime metrics and the c9 extension doesn't work, nice to have nodejs working from my local machine.
+
+Did a lot of debugging on the #100DoC bot and now want to start looking at getting some sort of system in there to control the project of the day tweets so the same project isn't tweeted again and again.
+
+**Up Next**:
+
+Do some LevelDB enhancements as mentioned in my thoughts section.
+
+**Link(s) to work**:
+
+[#100DoC Twitter bot PR](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/40)
+
+[spences10/100DaysOfCode-twitter-bot](https://github.com/spences10/100DaysOfCode-twitter-bot)
+
+---
+
+### Day 031: 2017-01-30
 
 **Today's Progress**:
 
