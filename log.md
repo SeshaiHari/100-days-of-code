@@ -37,6 +37,7 @@
     - [Day 031: 2017-01-30](#day-031-2017-01-30)
     - [Day 032: 2017-01-31](#day-032-2017-01-31)
     - [Day 033: 2017-02-01](#day-033-2017-02-01)
+    - [Day 034: 2017-02-02](#day-034-2017-02-02)
 
 <!-- /TOC -->
 
@@ -968,6 +969,68 @@ Don't care!
 ---
 
 ### Day 033: 2017-02-01
+
+**Today's Progress**:
+
+AM: Got a promise working! 
+
+```
+var ura = require('unique-random-array')
+var strings = require('./helpers/strings')
+var qs = ura(strings.queryString)
+var qsSq = ura(strings.queryStringSubQuery)
+var query = qs() + qsSq()
+
+var promise = new Promise(function (resolve, reject) {
+  var db = require('./helpers/queryDB')
+  // Check key isn't in db already, key being the query
+  db.get(query, function (err, value) {
+    if (typeof (value) !== 'undefined') {
+      console.log('ALREADY IN DB', query)
+      return
+    }else {
+      // Put a search query  
+      db.put(query, Date(), function (err) {
+        if (err) return console.log('Ooops!', err) // some kind of I/O error
+        console.log('LOGGED QUERY STRING', query)
+        return query + ' YO!'
+      })
+    }
+  })
+
+  resolve(query, 'all good')
+})
+
+promise.then(function (result) {
+  console.log('was it good?', result)
+}).catch(function (err) {
+  console.error('ERR', err)
+})
+```
+
+I want to be able to get this into it's own module now, I'll leave that for the PM
+
+PM: Couldn't get the module to export, feel like I have wasted a lot of time, haven't really progressed, gone backwards if any.
+
+So, decided to move onto getting sentiment detection into the Twitter bot bootstrap
+
+**Thoughts**:
+
+Promises, promises, promises, you fucks!
+
+**Up Next**:
+
+Sentiment detection on tweets and re-tweets on the bot boot strap
+
+**Link(s) to work**:
+
+[Twitter bot bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+[Twitter bot twit](https://github.com/spences10/twitter-bot-twit)
+
+---
+
+### Day 034: 2017-02-02
 
 **Today's Progress**:
 
