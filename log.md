@@ -39,6 +39,7 @@
     - [Day 033: 2017-02-01](#day-033-2017-02-01)
     - [Day 034: 2017-02-02](#day-034-2017-02-02)
     - [Day 035: 2017-02-03](#day-035-2017-02-03)
+    - [Day 036: 2017-02-04](#day-036-2017-02-04)
 
 <!-- /TOC -->
 
@@ -1054,6 +1055,30 @@ Learn ES6 with Wes Bos
 ---
 
 ### Day 035: 2017-02-03
+
+**Today's Progress**:
+
+AM: Add back blocked strings functionality I merged over in the last PR, sorry [@serginator](https://github.com/serginator)
+
+Started with ES6 
+
+PM: Played around with `stream.on('tweet'` with `twit`, wow! Loads of fun :smile:
+
+**Thoughts**:
+
+Not done with Twitter bots yet!
+
+**Up Next**:
+
+More ES6, learning loads of great stuff with Wes Bos
+
+**Link(s) to work**:
+
+[Twitter bot bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+---
+
+### Day 036: 2017-02-04
 
 **Today's Progress**:
 
