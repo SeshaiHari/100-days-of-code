@@ -40,6 +40,7 @@
     - [Day 034: 2017-02-02](#day-034-2017-02-02)
     - [Day 035: 2017-02-03](#day-035-2017-02-03)
     - [Day 036: 2017-02-04](#day-036-2017-02-04)
+    - [Day 037: 2017-02-05](#day-037-2017-02-05)
 
 <!-- /TOC -->
 
@@ -1079,6 +1080,32 @@ More ES6, learning loads of great stuff with Wes Bos
 ---
 
 ### Day 036: 2017-02-04
+
+**Today's Progress**:
+
+AM: Did some more work on Twitter bot twit and the Positivity tweet bot
+
+PM: I got drunk! I geot drunk after trying to get the callback working for the LevelDB search queries.
+
+The idea, is the twit bot searches random strings and quite often errors on a search string it has searched on previousley, I want to add the random search queries to the db so that the same query string isn't spammed repeatedly.
+
+I watched som of What teh Flexbox with Wes Bos
+
+**Thoughts**:
+
+Attempted to do some more stuff with promises :sob:
+
+The stream.on tweet function kept crashing when I was tracking `a` but if I switched to something like `trump` it was fine.
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[Twitter bot twit](https://github.com/spences10/twitter-bot-twit)
+
+---
+
+### Day 037: 2017-02-05
 
 **Today's Progress**:
 
