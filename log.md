@@ -1085,6 +1085,12 @@ More ES6, learning loads of great stuff with Wes Bos
 
 AM: Did some more work on Twitter bot twit and the Positivity tweet bot
 
+PM: I got drunk! I geot drunk after trying to get the callback working for the LevelDB search queries.
+
+The idea, is the twit bot searches random strings and quite often errors on a search string it has searched on previousley, I want to add the random search queries to the db so that the same query string isn't spammed repeatedly.
+
+I watched som of What teh Flexbox with Wes Bos
+
 **Thoughts**:
 
 Attempted to do some more stuff with promises :sob:
