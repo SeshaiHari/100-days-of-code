@@ -40,6 +40,7 @@
     - [Day 034: 2017-02-02](#day-034-2017-02-02)
     - [Day 035: 2017-02-03](#day-035-2017-02-03)
     - [Day 036: 2017-02-04](#day-036-2017-02-04)
+    - [Day 037: 2017-02-05](#day-037-2017-02-05)
 
 <!-- /TOC -->
 
@@ -1079,6 +1080,18 @@ More ES6, learning loads of great stuff with Wes Bos
 ---
 
 ### Day 036: 2017-02-04
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 037: 2017-02-05
 
 **Today's Progress**:
 
