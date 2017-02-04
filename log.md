@@ -1083,11 +1083,19 @@ More ES6, learning loads of great stuff with Wes Bos
 
 **Today's Progress**:
 
+AM: Did some more work on Twitter bot twit and the Positivity tweet bot
+
 **Thoughts**:
+
+Attempted to do some more stuff with promises :sob:
+
+The stream.on tweet function kept crashing when I was tracking `a` but if I switched to something like `trump` it was fine.
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[Twitter bot twit](https://github.com/spences10/twitter-bot-twit)
 
 ---
 
