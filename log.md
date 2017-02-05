@@ -1112,6 +1112,10 @@ The stream.on tweet function kept crashing when I was tracking `a` but if I swit
 
 AM: Did some flexbox work on my portfolio page and attempted to add flipping cards onto the project, it's pretty broken right now. 
 
+Merged some pretty handy enhancements to the Twitter bot bootstrap for `.env` thanks [@wjhurley](https://github.com/wjhurley) :smile:
+
+PM: Took another look at the personal portfolio and decided to attempt to do all the elements with flexbox, started again with a basic template layout
+
 **Thoughts**:
 
 My portfolio page is a mess :sweat_smile:
@@ -1123,6 +1127,8 @@ Play with getting the portfolio straight again
 **Link(s) to work**:
 
 [Personal Portfolio Webpage](https://github.com/spences10/freeCodeCamp/tree/dev/Personal%20Portfolio%20Webpage)
+
+[twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
 
 ---
 
