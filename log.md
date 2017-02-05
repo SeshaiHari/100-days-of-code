@@ -1086,9 +1086,9 @@ More ES6, learning loads of great stuff with Wes Bos
 
 AM: Did some more work on Twitter bot twit and the Positivity tweet bot
 
-PM: I got drunk! I geot drunk after trying to get the callback working for the LevelDB search queries.
+PM: I got drunk! I got drunk after trying to get the callback working for the LevelDB search queries.
 
-The idea, is the twit bot searches random strings and quite often errors on a search string it has searched on previousley, I want to add the random search queries to the db so that the same query string isn't spammed repeatedly.
+The idea, is the twit bot searches random strings and quite often errors on a search string it has searched on previously, I want to add the random search queries to the db so that the same query string isn't spammed repeatedly.
 
 I watched som of What teh Flexbox with Wes Bos
 
@@ -1110,11 +1110,19 @@ The stream.on tweet function kept crashing when I was tracking `a` but if I swit
 
 **Today's Progress**:
 
+AM: Did some flexbox work on my portfolio page and attempted to add flipping cards onto the project, it's pretty broken right now. 
+
 **Thoughts**:
+
+My portfolio page is a mess :sweat_smile:
 
 **Up Next**:
 
+Play with getting the portfolio straight again
+
 **Link(s) to work**:
+
+[Personal Portfolio Webpage](https://github.com/spences10/freeCodeCamp/tree/dev/Personal%20Portfolio%20Webpage)
 
 ---
 
