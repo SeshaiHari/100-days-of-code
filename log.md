@@ -41,6 +41,7 @@
     - [Day 035: 2017-02-03](#day-035-2017-02-03)
     - [Day 036: 2017-02-04](#day-036-2017-02-04)
     - [Day 037: 2017-02-05](#day-037-2017-02-05)
+    - [Day 038: 2017-02-06](#day-038-2017-02-06)
 
 <!-- /TOC -->
 
@@ -824,7 +825,7 @@ Get the queries database up and running!!
 
 **Today's Progress**:
 
-AM: Spent trying to get a result back from a module with a callback, the callback did what it was meant to do but the mosule doesn't return the right result
+AM: Spent trying to get a result back from a module with a callback, the callback did what it was meant to do but the module doesn't return the right result
 
 **Thoughts**:
 
@@ -1085,9 +1086,9 @@ More ES6, learning loads of great stuff with Wes Bos
 
 AM: Did some more work on Twitter bot twit and the Positivity tweet bot
 
-PM: I got drunk! I geot drunk after trying to get the callback working for the LevelDB search queries.
+PM: I got drunk! I got drunk after trying to get the callback working for the LevelDB search queries.
 
-The idea, is the twit bot searches random strings and quite often errors on a search string it has searched on previousley, I want to add the random search queries to the db so that the same query string isn't spammed repeatedly.
+The idea, is the twit bot searches random strings and quite often errors on a search string it has searched on previously, I want to add the random search queries to the db so that the same query string isn't spammed repeatedly.
 
 I watched som of What teh Flexbox with Wes Bos
 
@@ -1106,6 +1107,32 @@ The stream.on tweet function kept crashing when I was tracking `a` but if I swit
 ---
 
 ### Day 037: 2017-02-05
+
+**Today's Progress**:
+
+AM: Did some flexbox work on my portfolio page and attempted to add flipping cards onto the project, it's pretty broken right now. 
+
+Merged some pretty handy enhancements to the Twitter bot bootstrap for `.env` thanks [@wjhurley](https://github.com/wjhurley) :smile:
+
+PM: Took another look at the personal portfolio and decided to attempt to do all the elements with flexbox, started again with a basic template layout
+
+**Thoughts**:
+
+My portfolio page is a mess :sweat_smile:
+
+**Up Next**:
+
+Play with getting the portfolio straight again
+
+**Link(s) to work**:
+
+[Personal Portfolio Webpage](https://github.com/spences10/freeCodeCamp/tree/dev/Personal%20Portfolio%20Webpage)
+
+[twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+---
+
+### Day 038: 2017-02-06
 
 **Today's Progress**:
 
