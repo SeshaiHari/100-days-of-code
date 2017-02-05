@@ -41,6 +41,7 @@
     - [Day 035: 2017-02-03](#day-035-2017-02-03)
     - [Day 036: 2017-02-04](#day-036-2017-02-04)
     - [Day 037: 2017-02-05](#day-037-2017-02-05)
+    - [Day 038: 2017-02-06](#day-038-2017-02-06)
 
 <!-- /TOC -->
 
@@ -824,7 +825,7 @@ Get the queries database up and running!!
 
 **Today's Progress**:
 
-AM: Spent trying to get a result back from a module with a callback, the callback did what it was meant to do but the mosule doesn't return the right result
+AM: Spent trying to get a result back from a module with a callback, the callback did what it was meant to do but the module doesn't return the right result
 
 **Thoughts**:
 
@@ -1106,6 +1107,18 @@ The stream.on tweet function kept crashing when I was tracking `a` but if I swit
 ---
 
 ### Day 037: 2017-02-05
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 038: 2017-02-06
 
 **Today's Progress**:
 
