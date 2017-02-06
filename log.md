@@ -1139,9 +1139,15 @@ Play with getting the portfolio straight again
 
 AM: Flexboxxing on my personal portfolio, still trying to get the nav working as I want, then going to get the rest of the page items on there.
 
+PM: Gawped at my portfolio, did some of the `beta` freeCodeCamp `flexbox` challenges, got bored
+
 **Thoughts**:
 
+Didn't get much done today, I'm tired and need a good night's sleep 
+
 **Up Next**:
+
+Set some goals!
 
 **Link(s) to work**:
 
