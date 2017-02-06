@@ -1137,11 +1137,15 @@ Play with getting the portfolio straight again
 
 **Today's Progress**:
 
+AM: Flexboxxing on my personal portfolio, still trying to get the nav working as I want, then going to get the rest of the page items on there.
+
 **Thoughts**:
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[Personal Portfolio Webpage](https://github.com/spences10/freeCodeCamp/tree/dev/Personal%20Portfolio%20Webpage)
 
 ---
 
