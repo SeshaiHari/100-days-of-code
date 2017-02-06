@@ -42,6 +42,7 @@
     - [Day 036: 2017-02-04](#day-036-2017-02-04)
     - [Day 037: 2017-02-05](#day-037-2017-02-05)
     - [Day 038: 2017-02-06](#day-038-2017-02-06)
+    - [Day 039: 2017-02-07](#day-039-2017-02-07)
 
 <!-- /TOC -->
 
@@ -1114,7 +1115,7 @@ AM: Did some flexbox work on my portfolio page and attempted to add flipping car
 
 Merged some pretty handy enhancements to the Twitter bot bootstrap for `.env` thanks [@wjhurley](https://github.com/wjhurley) :smile:
 
-PM: Took another look at the personal portfolio and decided to attempt to do all the elements with flexbox, started again with a basic template layout
+PM: Took another look at the personal portfolio and decided to attempt to do all the elements with flexbox, started again with a basic template layout  
 
 **Thoughts**:
 
@@ -1133,6 +1134,28 @@ Play with getting the portfolio straight again
 ---
 
 ### Day 038: 2017-02-06
+
+**Today's Progress**:
+
+AM: Flexboxxing on my personal portfolio, still trying to get the nav working as I want, then going to get the rest of the page items on there.
+
+PM: Gawped at my portfolio, did some of the `beta` freeCodeCamp `flexbox` challenges, got bored
+
+**Thoughts**:
+
+Didn't get much done today, I'm tired and need a good night's sleep 
+
+**Up Next**:
+
+Set some goals!
+
+**Link(s) to work**:
+
+[Personal Portfolio Webpage](https://github.com/spences10/freeCodeCamp/tree/dev/Personal%20Portfolio%20Webpage)
+
+---
+
+### Day 039: 2017-02-07
 
 **Today's Progress**:
 
