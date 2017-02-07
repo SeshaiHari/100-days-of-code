@@ -1162,6 +1162,8 @@ Set some goals!
 
 AM: Added [positivity](https://github.com/spences10/positivity) to GitHub, and discovered how to stop tracking a file in git `git update-index --assume-unchanged <file>` quite handy :+1:
 
+PM: Did some work on the positivity tweet bot, mainly cleaning up code and `package.json`
+
 **Thoughts**:
 
 **Up Next**:
