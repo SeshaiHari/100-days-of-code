@@ -43,6 +43,7 @@
     - [Day 037: 2017-02-05](#day-037-2017-02-05)
     - [Day 038: 2017-02-06](#day-038-2017-02-06)
     - [Day 039: 2017-02-07](#day-039-2017-02-07)
+    - [Day 040: 2017-02-08](#day-040-2017-02-08)
 
 <!-- /TOC -->
 
@@ -1156,6 +1157,26 @@ Set some goals!
 ---
 
 ### Day 039: 2017-02-07
+
+**Today's Progress**:
+
+AM: Added [positivity](https://github.com/spences10/positivity) to GitHub, and discovered how to stop tracking a file in git `git update-index --assume-unchanged <file>` quite handy :+1:
+
+PM: Did some work on the positivity tweet bot, mainly cleaning up code and `package.json`
+
+**Thoughts**:
+
+**Up Next**:
+
+JSON API Viewer
+
+**Link(s) to work**:
+
+[positivity](https://github.com/spences10/positivity)
+
+---
+
+### Day 040: 2017-02-08
 
 **Today's Progress**:
 
