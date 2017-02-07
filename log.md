@@ -1160,11 +1160,17 @@ Set some goals!
 
 **Today's Progress**:
 
+AM: Added [positivity](https://github.com/spences10/positivity) to GitHub, and discovered how to stop tracking a file in git `git update-index --assume-unchanged <file>` quite handy :+1:
+
 **Thoughts**:
 
 **Up Next**:
 
+JSON API Viewer
+
 **Link(s) to work**:
+
+[positivity](https://github.com/spences10/positivity)
 
 ---
 
