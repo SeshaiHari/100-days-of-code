@@ -44,6 +44,7 @@
     - [Day 038: 2017-02-06](#day-038-2017-02-06)
     - [Day 039: 2017-02-07](#day-039-2017-02-07)
     - [Day 040: 2017-02-08](#day-040-2017-02-08)
+    - [Day 041: 2017-02-09](#day-041-2017-02-09)
 
 <!-- /TOC -->
 
@@ -1177,6 +1178,55 @@ JSON API Viewer
 ---
 
 ### Day 040: 2017-02-08
+
+**Today's Progress**:
+
+AM: Spent the morning updating the README on the Twitter bot bootstrap as I removed the sentiment API key from the `sentiment.js` module. 
+
+PM: FINALLY! Got a promise working passing data back to another node module!!
+
+```
+const rt = require('./helpers/retweet')
+
+rt
+  .then(data => {
+    console.log(data)
+  })
+  .catch(err => {
+    console.log(err)
+  })
+```
+
+Output:
+
+```
+> node-module-testing@0.0.1 start C:\Users\spenc\gitrepos\node-module-testing
+> node index.js
+
+8294499xxxxxxxxxx6
+```
+
+Yussssss!
+
+**Thoughts**:
+
+Love bitHound it found errors in Twitter bot bootstrap and logged them as issues in GitHub, great tool
+
+The promise takes a really long time to resolve
+
+**Up Next**:
+
+Promises??
+
+**Link(s) to work**:
+
+[twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+[node-module-testing](https://github.com/spences10/node-module-testing)
+
+---
+
+### Day 041: 2017-02-09
 
 **Today's Progress**:
 
