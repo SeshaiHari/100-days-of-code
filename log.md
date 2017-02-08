@@ -1183,15 +1183,46 @@ JSON API Viewer
 
 AM: Spent the morning updating the README on the Twitter bot bootstrap as I removed the sentiment API key from the `sentiment.js` module. 
 
+PM: FINALLY! Got a promise working passing data back to another node module!!
+
+```
+const rt = require('./helpers/retweet')
+
+rt
+  .then(data => {
+    console.log(data)
+  })
+  .catch(err => {
+    console.log(err)
+  })
+```
+
+Output:
+
+```
+> node-module-testing@0.0.1 start C:\Users\spenc\gitrepos\node-module-testing
+> node index.js
+
+8294499xxxxxxxxxx6
+```
+
+Yussssss!
+
 **Thoughts**:
 
 Love bitHound it found errors in Twitter bot bootstrap and logged them as issues in GitHub, great tool
 
+The promise takes a really long time to resolve
+
 **Up Next**:
+
+Promises??
 
 **Link(s) to work**:
 
 [twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+[node-module-testing](https://github.com/spences10/node-module-testing)
 
 ---
 
