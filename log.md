@@ -1181,11 +1181,17 @@ JSON API Viewer
 
 **Today's Progress**:
 
+AM: Spent the morning updating the README on the Twitter bot bootstrap as I removed the sentiment API key from the `sentiment.js` module. 
+
 **Thoughts**:
+
+Love bitHound it found errors in Twitter bot bootstrap and logged them as issues in GitHub, great tool
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
 
 ---
 
