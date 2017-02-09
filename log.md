@@ -1231,11 +1231,15 @@ Promises??
 
 **Today's Progress**:
 
+AM: Now can call a retweet search id from another module via a promise :+1:
+
 **Thoughts**:
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[node-module-testing](https://github.com/spences10/node-module-testing)
 
 ---
 
