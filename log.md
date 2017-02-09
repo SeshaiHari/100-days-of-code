@@ -1233,9 +1233,15 @@ Promises??
 
 AM: Now can call a retweet search id from another module via a promise :+1:
 
+PM: Made a bit of a mess with the DRY code on the node testing modules, I can call a promise but if I stick it on a `setInterval` or `setTimeout` I get the same search Id. Need to fix this
+
 **Thoughts**:
 
+I'm sure that I can be doing this a cleaner/more thought out way, for now I'm happy to have something working.
+
 **Up Next**:
+
+Get shit done!
 
 **Link(s) to work**:
 
