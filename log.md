@@ -45,6 +45,7 @@
     - [Day 039: 2017-02-07](#day-039-2017-02-07)
     - [Day 040: 2017-02-08](#day-040-2017-02-08)
     - [Day 041: 2017-02-09](#day-041-2017-02-09)
+    - [Day 042: 2017-02-10](#day-042-2017-02-10)
 
 <!-- /TOC -->
 
@@ -1227,6 +1228,28 @@ Promises??
 ---
 
 ### Day 041: 2017-02-09
+
+**Today's Progress**:
+
+AM: Now can call a retweet search id from another module via a promise :+1:
+
+PM: Made a bit of a mess with the DRY code on the node testing modules, I can call a promise but if I stick it on a `setInterval` or `setTimeout` I get the same search Id. Need to fix this
+
+**Thoughts**:
+
+I'm sure that I can be doing this a cleaner/more thought out way, for now I'm happy to have something working.
+
+**Up Next**:
+
+Get shit done!
+
+**Link(s) to work**:
+
+[node-module-testing](https://github.com/spences10/node-module-testing)
+
+---
+
+### Day 042: 2017-02-10
 
 **Today's Progress**:
 
