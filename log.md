@@ -47,6 +47,7 @@
     - [Day 041: 2017-02-09](#day-041-2017-02-09)
     - [Day 042: 2017-02-10](#day-042-2017-02-10)
     - [Day 043: 2017-02-11](#day-043-2017-02-11)
+    - [Day 044: 2017-02-12](#day-044-2017-02-12)
 
 <!-- /TOC -->
 
@@ -1311,6 +1312,22 @@ The same search result, so you can run the search from node `node src/helpers/se
 ---
 
 ### Day 043: 2017-02-11
+
+**Today's Progress**:
+
+Spent more time with yesterdays issue, lots of Googleing lots of code walls on Gitter/Slack community channels, I have spent way to much time on it now but I need to resolve it, so look out for my day 301 log where I'm still stuck with this [which I'm sure is a trivial thing].
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[node-module-testing](https://github.com/spences10/node-module-testing)
+
+---
+
+### Day 044: 2017-02-12
 
 **Today's Progress**:
 
