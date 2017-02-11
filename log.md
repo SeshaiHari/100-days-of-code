@@ -1254,11 +1254,59 @@ Get shit done!
 
 **Today's Progress**:
 
+Spent hours and hours trying to work out why `module.exports` was returning the same value when you called it from a `setInterval`
+
 **Thoughts**:
+
+This has swallowed all my time today, I have written the same code 100s of different ways
+
+Here is a sample of it:
+
+**`search.js`**
+
+```
+let T = require('./T')
+let p = require('./twitParams')
+let ura = require('unique-random-array')
+var tweetId = function() {
+
+T.get('search/tweets', p)
+  .catch(function (err) {
+    console.log('caught error', err.stack)
+  })
+  .then(function (result) {
+    console.log(result.data.statuses[0].id_str)
+  })
+}
+
+exports.id = tweetId;
+```
+
+So this should export the Tweet id and it does :+1:
+
+It's when I want to leave it running, so I try calling with this
+
+**`test.js`**
+
+```
+let s = require('./helpers/search')
+
+var a = function() {
+  s.id()
+}
+
+setInterval(s.id,1000)
+```
+
+What is output?
+
+The same search result, so you can run the search from node `node src/helpers/search` and each time you run it you get a different search result. When you use any kind of interval timer you get the same result. 
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[node-module-testing](https://github.com/spences10/node-module-testing)
 
 ---
 
