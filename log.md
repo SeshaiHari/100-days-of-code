@@ -46,6 +46,8 @@
     - [Day 040: 2017-02-08](#day-040-2017-02-08)
     - [Day 041: 2017-02-09](#day-041-2017-02-09)
     - [Day 042: 2017-02-10](#day-042-2017-02-10)
+    - [Day 043: 2017-02-11](#day-043-2017-02-11)
+    - [Day 044: 2017-02-12](#day-044-2017-02-12)
 
 <!-- /TOC -->
 
@@ -1250,6 +1252,82 @@ Get shit done!
 ---
 
 ### Day 042: 2017-02-10
+
+**Today's Progress**:
+
+Spent hours and hours trying to work out why `module.exports` was returning the same value when you called it from a `setInterval`
+
+**Thoughts**:
+
+This has swallowed all my time today, I have written the same code 100s of different ways
+
+Here is a sample of it:
+
+**`search.js`**
+
+```
+let T = require('./T')
+let p = require('./twitParams')
+let ura = require('unique-random-array')
+var tweetId = function() {
+
+T.get('search/tweets', p)
+  .catch(function (err) {
+    console.log('caught error', err.stack)
+  })
+  .then(function (result) {
+    console.log(result.data.statuses[0].id_str)
+  })
+}
+
+exports.id = tweetId;
+```
+
+So this should export the Tweet id and it does :+1:
+
+It's when I want to leave it running, so I try calling with this
+
+**`test.js`**
+
+```
+let s = require('./helpers/search')
+
+var a = function() {
+  s.id()
+}
+
+setInterval(s.id,1000)
+```
+
+What is output?
+
+The same search result, so you can run the search from node `node src/helpers/search` and each time you run it you get a different search result. When you use any kind of interval timer you get the same result. 
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[node-module-testing](https://github.com/spences10/node-module-testing)
+
+---
+
+### Day 043: 2017-02-11
+
+**Today's Progress**:
+
+Spent more time with yesterdays issue, lots of Googleing lots of code walls on Gitter/Slack community channels, I have spent way to much time on it now but I need to resolve it, so look out for my day 301 log where I'm still stuck with this [which I'm sure is a trivial thing].
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[node-module-testing](https://github.com/spences10/node-module-testing)
+
+---
+
+### Day 044: 2017-02-12
 
 **Today's Progress**:
 
