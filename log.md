@@ -48,6 +48,7 @@
     - [Day 042: 2017-02-10](#day-042-2017-02-10)
     - [Day 043: 2017-02-11](#day-043-2017-02-11)
     - [Day 044: 2017-02-12](#day-044-2017-02-12)
+    - [Day 045: 2017-02-13](#day-045-2017-02-13)
 
 <!-- /TOC -->
 
@@ -1328,6 +1329,22 @@ Spent more time with yesterdays issue, lots of Googleing lots of code walls on G
 ---
 
 ### Day 044: 2017-02-12
+
+**Today's Progress**:
+
+PM: This problem with node modules for `twit` returning the same search result swallowed up all my spare time again.
+
+**Thoughts**:
+
+FU `twit`, fu promises, fu modules, fu node
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 045: 2017-02-13
 
 **Today's Progress**:
 
