@@ -1351,6 +1351,8 @@ FU `twit`, fu promises, fu modules, fu node
 
 AM: Looked into using [@drm2/twitterbot](https://www.npmjs.com/package/@drm2/twitterbot) got initial set up going
 
+PM: Twitter bot bootstrap updated, resolve self tweet on follow
+
 **Thoughts**:
 
 **Up Next**:
