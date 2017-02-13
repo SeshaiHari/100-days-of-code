@@ -1349,9 +1349,13 @@ FU `twit`, fu promises, fu modules, fu node
 
 **Today's Progress**:
 
+AM: Looked into using [@drm2/twitterbot](https://www.npmjs.com/package/@drm2/twitterbot) got initial set up going
+
 **Thoughts**:
 
 **Up Next**:
+
+Try get `@drm2/twitterbot` working the way I want it using DRY code, see how far I get :+1: 
 
 **Link(s) to work**:
 
