@@ -49,6 +49,7 @@
     - [Day 043: 2017-02-11](#day-043-2017-02-11)
     - [Day 044: 2017-02-12](#day-044-2017-02-12)
     - [Day 045: 2017-02-13](#day-045-2017-02-13)
+    - [Day 046: 2017-02-14](#day-046-2017-02-14)
 
 <!-- /TOC -->
 
@@ -1345,6 +1346,18 @@ FU `twit`, fu promises, fu modules, fu node
 ---
 
 ### Day 045: 2017-02-13
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 046: 2017-02-14
 
 **Today's Progress**:
 
