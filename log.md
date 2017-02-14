@@ -1370,11 +1370,17 @@ Try get `@drm2/twitterbot` working the way I want it using DRY code, see how far
 
 **Today's Progress**:
 
+AM: Finished up with the bootstrap, rearranged my GitHub repo with my freeCodeCamp work on there
+
 **Thoughts**:
+
+In the grand scheme of things I have done very little FCC work
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
 
 ---
 
