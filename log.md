@@ -49,6 +49,8 @@
     - [Day 043: 2017-02-11](#day-043-2017-02-11)
     - [Day 044: 2017-02-12](#day-044-2017-02-12)
     - [Day 045: 2017-02-13](#day-045-2017-02-13)
+    - [Day 046: 2017-02-14](#day-046-2017-02-14)
+    - [Day 047: 2017-02-15](#day-047-2017-02-15)
 
 <!-- /TOC -->
 
@@ -1345,6 +1347,44 @@ FU `twit`, fu promises, fu modules, fu node
 ---
 
 ### Day 045: 2017-02-13
+
+**Today's Progress**:
+
+AM: Looked into using [@drm2/twitterbot](https://www.npmjs.com/package/@drm2/twitterbot) got initial set up going
+
+PM: Twitter bot bootstrap updated, resolve self tweet on follow
+
+**Thoughts**:
+
+**Up Next**:
+
+Try get `@drm2/twitterbot` working the way I want it using DRY code, see how far I get :+1: 
+
+**Link(s) to work**:
+
+[twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+---
+
+### Day 046: 2017-02-14
+
+**Today's Progress**:
+
+AM: Finished up with the bootstrap, rearranged my GitHub repo with my freeCodeCamp work on there
+
+**Thoughts**:
+
+In the grand scheme of things I have done very little FCC work
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap)
+
+---
+
+### Day 047: 2017-02-15
 
 **Today's Progress**:
 
