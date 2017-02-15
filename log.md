@@ -51,6 +51,7 @@
     - [Day 045: 2017-02-13](#day-045-2017-02-13)
     - [Day 046: 2017-02-14](#day-046-2017-02-14)
     - [Day 047: 2017-02-15](#day-047-2017-02-15)
+    - [Day 048: 2017-02-16](#day-048-2017-02-16)
 
 <!-- /TOC -->
 
@@ -1385,6 +1386,18 @@ In the grand scheme of things I have done very little FCC work
 ---
 
 ### Day 047: 2017-02-15
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 048: 2017-02-16
 
 **Today's Progress**:
 
