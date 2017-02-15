@@ -1389,11 +1389,21 @@ In the grand scheme of things I have done very little FCC work
 
 **Today's Progress**:
 
+AM: Went over my freeCodeCamp basic algo scripting adding to my git repo, just so I have a record.
+
+PM: More freeCodeCamp algo challenges, started looking at Twitch tv viewer
+
 **Thoughts**:
+
+Terrible, terrible cold last few days now, can't concentrate, ill
 
 **Up Next**:
 
+Knuckle down, get shit done!
+
 **Link(s) to work**:
+
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
 
 ---
 
