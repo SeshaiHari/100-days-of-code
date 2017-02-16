@@ -1416,3 +1416,15 @@ Knuckle down, get shit done!
 **Up Next**:
 
 **Link(s) to work**:
+
+---
+
+### Day 049: 2017-02-17
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
