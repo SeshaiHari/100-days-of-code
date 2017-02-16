@@ -52,6 +52,7 @@
     - [Day 046: 2017-02-14](#day-046-2017-02-14)
     - [Day 047: 2017-02-15](#day-047-2017-02-15)
     - [Day 048: 2017-02-16](#day-048-2017-02-16)
+    - [Day 049: 2017-02-17](#day-049-2017-02-17)
 
 <!-- /TOC -->
 
@@ -1408,6 +1409,28 @@ Knuckle down, get shit done!
 ---
 
 ### Day 048: 2017-02-16
+
+**Today's Progress**:
+
+AM: Twitch.tv api thingy, spent the whole morning watching wesbos videos
+
+PM: Got the API working, discovered from someone on Gitter that I should be using two urls for the viewer!!
+
+**Thoughts**:
+
+I feel like I'm just starting with HTML and CSS again! fml
+
+**Up Next**:
+
+Twitch.tv fixedyfixfix
+
+**Link(s) to work**:
+
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
+
+---
+
+### Day 049: 2017-02-17
 
 **Today's Progress**:
 
