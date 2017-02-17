@@ -53,6 +53,7 @@
     - [Day 047: 2017-02-15](#day-047-2017-02-15)
     - [Day 048: 2017-02-16](#day-048-2017-02-16)
     - [Day 049: 2017-02-17](#day-049-2017-02-17)
+    - [Day 050: 2017-02-18](#day-050-2017-02-18)
 
 <!-- /TOC -->
 
@@ -1431,6 +1432,26 @@ Twitch.tv fixedyfixfix
 ---
 
 ### Day 049: 2017-02-17
+
+**Today's Progress**:
+
+AM: Start making a JSON object to use on the Twitch.tv API challenge
+
+PM: Got the JSON object populating the page looks ok, now trying to hide online/offline channels
+
+**Thoughts**:
+
+Lost a load of interest after all the time wasted on trying to get `node`, `twit` or whichever one working to my liking.
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
+
+---
+
+### Day 050: 2017-02-18
 
 **Today's Progress**:
 
