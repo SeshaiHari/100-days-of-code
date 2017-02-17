@@ -1437,6 +1437,8 @@ Twitch.tv fixedyfixfix
 
 AM: Start making a JSON object to use on the Twitch.tv API challenge
 
+PM: Got the JSON object populating the page looks ok, now trying to hide online/offline channels
+
 **Thoughts**:
 
 Lost a load of interest after all the time wasted on trying to get `node`, `twit` or whichever one working to my liking.
