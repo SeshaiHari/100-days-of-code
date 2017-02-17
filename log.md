@@ -1435,11 +1435,17 @@ Twitch.tv fixedyfixfix
 
 **Today's Progress**:
 
+AM: Start making a JSON object to use on the Twitch.tv API challenge
+
 **Thoughts**:
+
+Lost a load of interest after all the time wasted on trying to get `node`, `twit` or whichever one working to my liking.
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
 
 ---
 
