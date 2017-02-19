@@ -54,6 +54,8 @@
     - [Day 048: 2017-02-16](#day-048-2017-02-16)
     - [Day 049: 2017-02-17](#day-049-2017-02-17)
     - [Day 050: 2017-02-18](#day-050-2017-02-18)
+    - [Day 051: 2017-02-19](#day-051-2017-02-19)
+    - [Day 052: 2017-02-20](#day-052-2017-02-20)
 
 <!-- /TOC -->
 
@@ -399,7 +401,7 @@ Add reply to user for Phrasing with Archer bot
 AM: Looked into using [request](https://www.npmjs.com/package/request#star) on npm, got an example working `request('https://m.popkey.co/54f65e/YNzqV.gif').pipe(fs.createWriteStream('doodle.gif'));
 ` pretty straight forward so looking to get that working in Archer bot with replies [which aren't working]
 
-PM: Created PR for [100DaysOfCode-twitter-bot](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot) project of teh day functionality using unique random array. Played with getting the giphy api working, not much joy so far
+PM: Created PR for [100DaysOfCode-twitter-bot](https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot) project of the day functionality using unique random array. Played with getting the giphy api working, not much joy so far
 
 **Thoughts**:
 
@@ -1102,7 +1104,7 @@ PM: I got drunk! I got drunk after trying to get the callback working for the Le
 
 The idea, is the twit bot searches random strings and quite often errors on a search string it has searched on previously, I want to add the random search queries to the db so that the same query string isn't spammed repeatedly.
 
-I watched som of What teh Flexbox with Wes Bos
+I watched som of What the Flexbox with Wes Bos
 
 **Thoughts**:
 
@@ -1455,8 +1457,47 @@ Lost a load of interest after all the time wasted on trying to get `node`, `twit
 
 **Today's Progress**:
 
+AM: Searched for a way to show hide the elements between on-line and off-line
+
+PM: Completed the filtering of the channels added styles to it and further handling of channels that do not exist.
+
+**Thoughts**:
+
+Quite a good learning experience, highlighted that I still know jack about the DOM
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
+
+---
+
+### Day 051: 2017-02-19
+
+**Today's Progress**:
+
+AM: Watching ES6 videos, playing around with Google Firebase, added the Twitch.tv API app to codepen
+
 **Thoughts**:
 
 **Up Next**:
 
 **Link(s) to work**:
+
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
+
+[Twitch.tv API app](http://codepen.io/spences10/pen/ggNOyo)
+
+---
+
+### Day 052: 2017-02-20
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
