@@ -55,6 +55,7 @@
     - [Day 049: 2017-02-17](#day-049-2017-02-17)
     - [Day 050: 2017-02-18](#day-050-2017-02-18)
     - [Day 051: 2017-02-19](#day-051-2017-02-19)
+    - [Day 052: 2017-02-20](#day-052-2017-02-20)
 
 <!-- /TOC -->
 
@@ -1473,6 +1474,24 @@ Quite a good learning experience, highlighted that I still know jack about the D
 ---
 
 ### Day 051: 2017-02-19
+
+**Today's Progress**:
+
+AM: Watching ES6 videos, playing around with Google Firebase, added the Twitch.tv API app to codepen
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
+
+[Twitch.tv API app](http://codepen.io/spences10/pen/ggNOyo)
+
+---
+
+### Day 052: 2017-02-20
 
 **Today's Progress**:
 
