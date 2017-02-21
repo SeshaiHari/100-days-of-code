@@ -57,6 +57,7 @@
     - [Day 051: 2017-02-19](#day-051-2017-02-19)
     - [Day 052: 2017-02-20](#day-052-2017-02-20)
     - [Day 053: 2017-02-21](#day-053-2017-02-21)
+    - [Day 054: 2017-02-22](#day-054-2017-02-22)
 
 <!-- /TOC -->
 
@@ -1502,9 +1503,23 @@ PM: Boo who and Sorted Union algos
 
 **Thoughts**:
 
-Sorted union was ok because you just use the ES6 `arguments` variable 'array-ish' type [thanks Wess Bos]
+Sorted union was ok because you just use the ES6 `arguments` variable 'array-ish' type [thanks Wes Bos] 
+
+```
+  for (const argument of arguments) {
+    for (const array of argument) {
+      if (returnArray.indexOf(array) < 0) {
+        returnArray.push(array)
+      }
+    }
+  }
+```
+
+Beautiful :nail_care:
 
 **Up Next**:
+
+More freeCodeCamp intermediate challenges
 
 **Link(s) to work**:
 
@@ -1513,6 +1528,19 @@ Sorted union was ok because you just use the ES6 `arguments` variable 'array-ish
 ---
 
 ### Day 053: 2017-02-21
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+
+---
+
+### Day 054: 2017-02-22
 
 **Today's Progress**:
 
