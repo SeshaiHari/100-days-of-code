@@ -1531,12 +1531,21 @@ More freeCodeCamp intermediate challenges
 
 **Today's Progress**:
 
+AM: Convert HTML Entities
+
+PM: Convert HTML Entities, spent 3hrs 14minutes on this looking at my wakatime!
+
 **Thoughts**:
+
+I really wanted to do it all in ES6, which I sort of did but I'm shit :shit: with regex so had to wrap the `switch` statement 
 
 **Up Next**:
 
+More fCC work, think I'm done for tonight 
+
 **Link(s) to work**:
 
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
 
 ---
 
