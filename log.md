@@ -58,6 +58,7 @@
     - [Day 052: 2017-02-20](#day-052-2017-02-20)
     - [Day 053: 2017-02-21](#day-053-2017-02-21)
     - [Day 054: 2017-02-22](#day-054-2017-02-22)
+    - [Day 055: 2017-02-23](#day-055-2017-02-23)
 
 <!-- /TOC -->
 
@@ -1550,6 +1551,28 @@ More fCC work, think I'm done for tonight
 ---
 
 ### Day 054: 2017-02-22
+
+**Today's Progress**:
+
+AM: Intermediate algo challenges for freeCodeCamp, Spinal Case and Fibonacci Numbers
+
+PM: Intermediate algo challenges for freeCodeCamp, sum all primes, work on html for git repo
+
+**Thoughts**:
+
+FU regex!
+
+**Up Next**:
+
+More freeCodeCamp challenges
+
+**Link(s) to work**:
+
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
+
+---
+
+### Day 055: 2017-02-23
 
 **Today's Progress**:
 
