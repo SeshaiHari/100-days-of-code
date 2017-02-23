@@ -59,6 +59,7 @@
     - [Day 053: 2017-02-21](#day-053-2017-02-21)
     - [Day 054: 2017-02-22](#day-054-2017-02-22)
     - [Day 055: 2017-02-23](#day-055-2017-02-23)
+    - [Day 056: 2017-02-24](#day-056-2017-02-24)
 
 <!-- /TOC -->
 
@@ -1576,9 +1577,28 @@ More freeCodeCamp challenges
 
 **Today's Progress**:
 
+AM: Intermediate algo challenges for freeCodeCamp, Sum all primes
+
+PM: Spent a lot of time on my VBA side project today
+
+**Thoughts**:
+
+**Up Next**:
+
+More freeCodeCamp challenges
+
+**Link(s) to work**:
+
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
+
+---
+
+### Day 056: 2017-02-24
+
+**Today's Progress**:
+
 **Thoughts**:
 
 **Up Next**:
 
 **Link(s) to work**:
-
