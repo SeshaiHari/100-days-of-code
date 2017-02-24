@@ -1600,6 +1600,8 @@ More freeCodeCamp challenges
 
 AM: More time on my VBA side project and resolving an issue with my other VBA side project 
 
+PM: VBA CodeExport [CHANGELOG](https://github.com/olivierlacan/keep-a-changelog) thoroughly confused myself trying to set that up
+
 **Thoughts**:
 
 **Up Next**:
@@ -1609,6 +1611,8 @@ AM: More time on my VBA side project and resolving an issue with my other VBA si
 [VBA-IDE-Code-Export](https://github.com/spences10/VBA-IDE-Code-Export)
 
 [vscode-vba](https://github.com/spences10/vscode-vba)
+
+[CHANGELOG](https://github.com/olivierlacan/keep-a-changelog)
 
 ---
 
