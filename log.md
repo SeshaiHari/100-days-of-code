@@ -60,6 +60,7 @@
     - [Day 054: 2017-02-22](#day-054-2017-02-22)
     - [Day 055: 2017-02-23](#day-055-2017-02-23)
     - [Day 056: 2017-02-24](#day-056-2017-02-24)
+    - [Day 057: 2017-02-25](#day-057-2017-02-25)
 
 <!-- /TOC -->
 
@@ -1594,6 +1595,24 @@ More freeCodeCamp challenges
 ---
 
 ### Day 056: 2017-02-24
+
+**Today's Progress**:
+
+AM: More time on my VBA side project and resolving an issue with my other VBA side project 
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[VBA-IDE-Code-Export](https://github.com/spences10/VBA-IDE-Code-Export)
+
+[vscode-vba](https://github.com/spences10/vscode-vba)
+
+---
+
+### Day 057: 2017-02-25
 
 **Today's Progress**:
 
