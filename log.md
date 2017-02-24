@@ -1612,7 +1612,7 @@ PM: VBA CodeExport [CHANGELOG](https://github.com/olivierlacan/keep-a-changelog)
 
 [vscode-vba](https://github.com/spences10/vscode-vba)
 
-[CHANGELOG](https://github.com/olivierlacan/keep-a-changelog)
+[https://ide.c9.io/spences10/code-export-changelog](https://ide.c9.io/spences10/code-export-changelog) where I have tried to use [CHANGELOG](https://github.com/olivierlacan/keep-a-changelog)
 
 ---
 
