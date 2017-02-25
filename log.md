@@ -61,6 +61,7 @@
     - [Day 055: 2017-02-23](#day-055-2017-02-23)
     - [Day 056: 2017-02-24](#day-056-2017-02-24)
     - [Day 057: 2017-02-25](#day-057-2017-02-25)
+    - [Day 058: 2017-02-26](#day-058-2017-02-26)
 
 <!-- /TOC -->
 
@@ -1617,6 +1618,24 @@ PM: VBA CodeExport [CHANGELOG](https://github.com/olivierlacan/keep-a-changelog)
 ---
 
 ### Day 057: 2017-02-25
+
+**Today's Progress**:
+
+AM: freeCodeCamp intermediate algorithm challenges 14-16
+
+PM: freeCodeCamp intermediate algorithm challenges
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
+
+---
+
+### Day 058: 2017-02-26
 
 **Today's Progress**:
 
