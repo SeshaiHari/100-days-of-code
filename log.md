@@ -1623,6 +1623,8 @@ PM: VBA CodeExport [CHANGELOG](https://github.com/olivierlacan/keep-a-changelog)
 
 AM: freeCodeCamp intermediate algorithm challenges 14-16
 
+PM: freeCodeCamp intermediate algorithm challenges
+
 **Thoughts**:
 
 **Up Next**:
