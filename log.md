@@ -62,6 +62,7 @@
     - [Day 056: 2017-02-24](#day-056-2017-02-24)
     - [Day 057: 2017-02-25](#day-057-2017-02-25)
     - [Day 058: 2017-02-26](#day-058-2017-02-26)
+    - [Day 059: 2017-02-27](#day-059-2017-02-27)
 
 <!-- /TOC -->
 
@@ -1636,6 +1637,24 @@ PM: freeCodeCamp intermediate algorithm challenges
 ---
 
 ### Day 058: 2017-02-26
+
+**Today's Progress**:
+
+AM: Tried to follow along with node basics, couldn't even
+
+PM: Add Advanced JS Project structures
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
+
+---
+
+### Day 059: 2017-02-27
 
 **Today's Progress**:
 
