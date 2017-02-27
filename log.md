@@ -62,6 +62,8 @@
     - [Day 056: 2017-02-24](#day-056-2017-02-24)
     - [Day 057: 2017-02-25](#day-057-2017-02-25)
     - [Day 058: 2017-02-26](#day-058-2017-02-26)
+    - [Day 059: 2017-02-27](#day-059-2017-02-27)
+    - [Day 060: 2017-02-28](#day-060-2017-02-28)
 
 <!-- /TOC -->
 
@@ -1636,6 +1638,44 @@ PM: freeCodeCamp intermediate algorithm challenges
 ---
 
 ### Day 058: 2017-02-26
+
+**Today's Progress**:
+
+AM: Tried to follow along with node basics, couldn't even
+
+PM: Add Advanced JS Project structures
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[freeCodeCamp(:fire:)](http://freecodecamp.com/spences10)
+
+---
+
+### Day 059: 2017-02-27
+
+**Today's Progress**:
+
+AM: Started with React and Wes Bos' React for Beginners, so far, made a component
+
+PM: Scaffolded some components together, looking pretty good :+1:
+
+**Thoughts**:
+
+Likey
+
+**Up Next**:
+
+**Link(s) to work**:
+
+No links just yet
+
+---
+
+### Day 060: 2017-02-28
 
 **Today's Progress**:
 
