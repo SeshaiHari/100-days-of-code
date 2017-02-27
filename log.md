@@ -1661,6 +1661,8 @@ PM: Add Advanced JS Project structures
 
 AM: Started with React and Wes Bos' React for Beginners, so far, made a component
 
+PM: Scaffolded some components together, looking pretty good :+1:
+
 **Thoughts**:
 
 Likey
@@ -1669,7 +1671,7 @@ Likey
 
 **Link(s) to work**:
 
-
+No links just yet
 
 ---
 
