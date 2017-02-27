@@ -63,6 +63,7 @@
     - [Day 057: 2017-02-25](#day-057-2017-02-25)
     - [Day 058: 2017-02-26](#day-058-2017-02-26)
     - [Day 059: 2017-02-27](#day-059-2017-02-27)
+    - [Day 060: 2017-02-28](#day-060-2017-02-28)
 
 <!-- /TOC -->
 
@@ -1655,6 +1656,24 @@ PM: Add Advanced JS Project structures
 ---
 
 ### Day 059: 2017-02-27
+
+**Today's Progress**:
+
+AM: Started with React and Wes Bos' React for Beginners, so far, made a component
+
+**Thoughts**:
+
+Likey
+
+**Up Next**:
+
+**Link(s) to work**:
+
+
+
+---
+
+### Day 060: 2017-02-28
 
 **Today's Progress**:
 
