@@ -1682,11 +1682,19 @@ No links just yet
 
 AM: More React for beginners with Wes Bos, worked on passing data with props, stateless functional components and routing 
 
+PM: Helper utilities and functions, working with React events, React router and part of state
+
 **Thoughts**:
+
+Love it
 
 **Up Next**:
 
+More react!!
+
 **Link(s) to work**:
+
+[react-for-beginners](https://github.com/spences10/react-for-beginners)
 
 ---
 
