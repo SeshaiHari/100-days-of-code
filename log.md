@@ -64,6 +64,7 @@
     - [Day 058: 2017-02-26](#day-058-2017-02-26)
     - [Day 059: 2017-02-27](#day-059-2017-02-27)
     - [Day 060: 2017-02-28](#day-060-2017-02-28)
+    - [Day 061: 2017-03-01](#day-061-2017-03-01)
 
 <!-- /TOC -->
 
@@ -1676,6 +1677,28 @@ No links just yet
 ---
 
 ### Day 060: 2017-02-28
+
+**Today's Progress**:
+
+AM: More React for beginners with Wes Bos, worked on passing data with props, stateless functional components and routing 
+
+PM: Helper utilities and functions, working with React events, React router and part of state
+
+**Thoughts**:
+
+Love it
+
+**Up Next**:
+
+More react!!
+
+**Link(s) to work**:
+
+[react-for-beginners](https://github.com/spences10/react-for-beginners)
+
+---
+
+### Day 061: 2017-03-01
 
 **Today's Progress**:
 
