@@ -65,6 +65,7 @@
     - [Day 059: 2017-02-27](#day-059-2017-02-27)
     - [Day 060: 2017-02-28](#day-060-2017-02-28)
     - [Day 061: 2017-03-01](#day-061-2017-03-01)
+    - [Day 062: 2017-03-02](#day-062-2017-03-02)
 
 <!-- /TOC -->
 
@@ -1702,13 +1703,19 @@ More react!!
 
 **Today's Progress**:
 
-AM: Understanding state, Loading data onto state onClick
+AM: React - Understanding state, Loading data into state onClick
 
 **Thoughts**:
 
+Woah! Will be watching this once back a few times!
+
 **Up Next**:
 
+Displaying state with JSX
+
 **Link(s) to work**:
+
+[react-for-beginners](https://github.com/spences10/react-for-beginners)
 
 ---
 
