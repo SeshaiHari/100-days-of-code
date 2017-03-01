@@ -65,6 +65,7 @@
     - [Day 059: 2017-02-27](#day-059-2017-02-27)
     - [Day 060: 2017-02-28](#day-060-2017-02-28)
     - [Day 061: 2017-03-01](#day-061-2017-03-01)
+    - [Day 062: 2017-03-02](#day-062-2017-03-02)
 
 <!-- /TOC -->
 
@@ -1699,6 +1700,28 @@ More react!!
 ---
 
 ### Day 061: 2017-03-01
+
+**Today's Progress**:
+
+AM: React - Understanding state, Loading data into state onClick
+
+PM: React - Displaying state with JSX and part of updating order
+
+**Thoughts**:
+
+Woah! Will be watching this once back a few times!
+
+**Up Next**:
+
+Update order display order state with JSX
+
+**Link(s) to work**:
+
+[react-for-beginners](https://github.com/spences10/react-for-beginners)
+
+---
+
+### Day 062: 2017-03-02
 
 **Today's Progress**:
 
