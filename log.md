@@ -1702,6 +1702,20 @@ More react!!
 
 **Today's Progress**:
 
+AM: Understanding state, Loading data onto state onClick
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 062: 2017-03-02
+
+**Today's Progress**:
+
 **Thoughts**:
 
 **Up Next**:
