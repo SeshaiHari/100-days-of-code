@@ -1705,13 +1705,15 @@ More react!!
 
 AM: React - Understanding state, Loading data into state onClick
 
+PM: React - Displaying state with JSX and part of updating order
+
 **Thoughts**:
 
 Woah! Will be watching this once back a few times!
 
 **Up Next**:
 
-Displaying state with JSX
+Update order display order state with JSX
 
 **Link(s) to work**:
 
