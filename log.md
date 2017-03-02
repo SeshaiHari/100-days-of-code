@@ -1726,7 +1726,9 @@ Update order display order state with JSX
 
 **Today's Progress**:
 
-AM React - Update order with state, working with state 
+AM: React - Update order with state, working with state 
+
+PM: React - Base of Fast Diet Picker
 
 **Thoughts**:
 
@@ -1735,6 +1737,8 @@ AM React - Update order with state, working with state
 **Link(s) to work**:
 
 [react-for-beginners](https://github.com/spences10/react-for-beginners)
+
+[fast-diet-picker](https://github.com/spences10/fast-diet-picker)
 
 ---
 
