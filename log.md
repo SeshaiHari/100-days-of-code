@@ -1749,9 +1749,13 @@ PM: React - Base of Fast Diet Picker
 
 AM: React - Updating order, displaying order with JSX
 
+PM: React - Persisting state with firebase
+
 **Thoughts**:
 
 **Up Next**:
+
+React - persist state with local storage 
 
 **Link(s) to work**:
 
