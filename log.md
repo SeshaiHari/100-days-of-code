@@ -67,6 +67,7 @@
     - [Day 061: 2017-03-01](#day-061-2017-03-01)
     - [Day 062: 2017-03-02](#day-062-2017-03-02)
     - [Day 063: 2017-03-03](#day-063-2017-03-03)
+    - [Day 064: 2017-03-03](#day-064-2017-03-03)
 
 <!-- /TOC -->
 
@@ -1743,6 +1744,22 @@ PM: React - Base of Fast Diet Picker
 ---
 
 ### Day 063: 2017-03-03
+
+**Today's Progress**:
+
+AM: React - Updating order, displaying order with JSX
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[react-for-beginners](https://github.com/spences10/react-for-beginners)
+
+---
+
+### Day 064: 2017-03-03
 
 **Today's Progress**:
 
