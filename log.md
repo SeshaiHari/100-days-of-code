@@ -68,7 +68,8 @@
     - [Day 062: 2017-03-02](#day-062-2017-03-02)
     - [Day 063: 2017-03-03](#day-063-2017-03-03)
     - [Day 064: 2017-03-04](#day-064-2017-03-04)
-    - [Day 064: 2017-03-05](#day-064-2017-03-05)
+    - [Day 065: 2017-03-05](#day-065-2017-03-05)
+    - [Day 066: 2017-03-06](#day-066-2017-03-06)
 
 <!-- /TOC -->
 
@@ -1782,7 +1783,25 @@ PM: React - Bi Directional data flow
 
 ---
 
-### Day 064: 2017-03-05
+### Day 065: 2017-03-05
+
+**Today's Progress**:
+
+AM: React - Finish Bi Directional data flow, removing items from state
+
+PM: React - animate components
+
+**Thoughts**:
+
+**Up Next**:
+
+[react-for-beginners](https://github.com/spences10/react-for-beginners)
+
+**Link(s) to work**:
+
+---
+
+### Day 066: 2017-03-06
 
 **Today's Progress**:
 
