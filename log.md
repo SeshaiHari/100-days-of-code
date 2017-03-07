@@ -68,7 +68,10 @@
     - [Day 062: 2017-03-02](#day-062-2017-03-02)
     - [Day 063: 2017-03-03](#day-063-2017-03-03)
     - [Day 064: 2017-03-04](#day-064-2017-03-04)
-    - [Day 064: 2017-03-05](#day-064-2017-03-05)
+    - [Day 065: 2017-03-05](#day-065-2017-03-05)
+    - [Day 066: 2017-03-06](#day-066-2017-03-06)
+    - [Day 067: 2017-03-07](#day-067-2017-03-07)
+    - [Day 068: 2017-03-08](#day-068-2017-03-08)
 
 <!-- /TOC -->
 
@@ -1782,7 +1785,71 @@ PM: React - Bi Directional data flow
 
 ---
 
-### Day 064: 2017-03-05
+### Day 065: 2017-03-05
+
+**Today's Progress**:
+
+AM: React - Finish Bi Directional data flow, removing items from state
+
+PM: React - animate components
+
+**Thoughts**:
+
+**Up Next**:
+
+[react-for-beginners](https://github.com/spences10/react-for-beginners)
+
+**Link(s) to work**:
+
+---
+
+### Day 066: 2017-03-06
+
+**Today's Progress**:
+
+AM: React - Component Validation with PropTypes
+
+PM: Webpack - Followed along with @WesBos to make a webpack setup, all went a bit wrong, ended up re-installing node and npm 
+
+**Thoughts**:
+
+Left it in a mess! Will pick it up tomorrow
+
+**Up Next**:
+
+Webpack!
+
+**Link(s) to work**:
+
+[react-for-beginners](https://github.com/spences10/react-for-beginners)
+
+[webpack-setup](https://github.com/spences10/webpack-setup)
+
+---
+
+### Day 067: 2017-03-07
+
+**Today's Progress**:
+
+AM: Webpack - finish webpack config and onto GitHub, made a PR to @WesBos' repo on the instructions as there was an omitted suffix from babel loader
+
+PM: React - :bangbang:Authentication:bangbang: wow, that was a chunky one!! GitHub, Facebook and Twitter authentication working with firebase
+
+**Thoughts**:
+
+**Up Next**:
+
+Moar React!
+
+**Link(s) to work**:
+
+[webpack-setup](https://github.com/spences10/webpack-setup)
+
+[wesbos/es6.io/pull/14](https://github.com/wesbos/es6.io/pull/14)
+
+---
+
+### Day 068: 2017-03-08
 
 **Today's Progress**:
 
