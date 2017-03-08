@@ -72,6 +72,7 @@
     - [Day 066: 2017-03-06](#day-066-2017-03-06)
     - [Day 067: 2017-03-07](#day-067-2017-03-07)
     - [Day 068: 2017-03-08](#day-068-2017-03-08)
+    - [Day 069: 2017-03-09](#day-069-2017-03-09)
 
 <!-- /TOC -->
 
@@ -1847,9 +1848,29 @@ Moar React!
 
 [wesbos/es6.io/pull/14](https://github.com/wesbos/es6.io/pull/14)
 
+[react-for-beginners](https://github.com/spences10/react-for-beginners)
+
 ---
 
 ### Day 068: 2017-03-08
+
+**Today's Progress**:
+
+AM: React - building React for production, deploying to now.sh and github pages
+
+**Thoughts**:
+
+Cd to the `build` directory before deploying!!
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[react-for-beginners](https://github.com/spences10/react-for-beginners)
+
+---
+
+### Day 069: 2017-03-09
 
 **Today's Progress**:
 
