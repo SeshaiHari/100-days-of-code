@@ -74,6 +74,7 @@
     - [Day 068: 2017-03-08](#day-068-2017-03-08)
     - [Day 069: 2017-03-09](#day-069-2017-03-09)
     - [Day 070: 2017-03-10](#day-070-2017-03-10)
+    - [Day 071: 2017-03-11](#day-071-2017-03-11)
 
 <!-- /TOC -->
 
@@ -1892,6 +1893,24 @@ Think I may just do some more JavaScript30
 ---
 
 ### Day 070: 2017-03-10
+
+**Today's Progress**:
+
+AM: Found a good guide on setting up a full stack here: [https://github.com/verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)
+
+PM: More Babel config this time with classes
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[https://github.com/spences10/babel-setup](https://github.com/spences10/babel-setup)
+
+---
+
+### Day 071: 2017-03-11
 
 **Today's Progress**:
 
