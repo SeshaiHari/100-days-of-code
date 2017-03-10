@@ -73,6 +73,7 @@
     - [Day 067: 2017-03-07](#day-067-2017-03-07)
     - [Day 068: 2017-03-08](#day-068-2017-03-08)
     - [Day 069: 2017-03-09](#day-069-2017-03-09)
+    - [Day 070: 2017-03-10](#day-070-2017-03-10)
 
 <!-- /TOC -->
 
@@ -1871,6 +1872,26 @@ Cd to the `build` directory before deploying!!
 ---
 
 ### Day 069: 2017-03-09
+
+**Today's Progress**:
+
+Mostly trying to workout how to use Babel
+
+**Thoughts**:
+
+Is it just me that doesn't ahe a clue what to do with them
+
+**Up Next**:
+
+Think I may just do some more JavaScript30
+
+**Link(s) to work**:
+
+[webpack-setup](https://github.com/spences10/webpack-setup)
+
+---
+
+### Day 070: 2017-03-10
 
 **Today's Progress**:
 
