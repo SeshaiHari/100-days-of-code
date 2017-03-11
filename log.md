@@ -75,6 +75,7 @@
     - [Day 069: 2017-03-09](#day-069-2017-03-09)
     - [Day 070: 2017-03-10](#day-070-2017-03-10)
     - [Day 071: 2017-03-11](#day-071-2017-03-11)
+    - [Day 072: 2017-03-12](#day-072-2017-03-12)
 
 <!-- /TOC -->
 
@@ -1911,6 +1912,26 @@ PM: More Babel config this time with classes
 ---
 
 ### Day 071: 2017-03-11
+
+**Today's Progress**:
+
+AM: Babel learning, and webpack learning 
+
+PM: Tried to understand SASS, I have no clue
+
+**Thoughts**:
+
+I have no idea about babel or webpack
+
+**Up Next**:
+
+**Link(s) to work**:
+
+No work, nothing done!! Wasted a day looking at 'stuff'
+
+---
+
+### Day 072: 2017-03-12
 
 **Today's Progress**:
 
