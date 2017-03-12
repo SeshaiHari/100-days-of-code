@@ -76,6 +76,7 @@
     - [Day 070: 2017-03-10](#day-070-2017-03-10)
     - [Day 071: 2017-03-11](#day-071-2017-03-11)
     - [Day 072: 2017-03-12](#day-072-2017-03-12)
+    - [Day 072: 2017-03-12](#day-072-2017-03-12-1)
 
 <!-- /TOC -->
 
@@ -1928,6 +1929,28 @@ I have no idea about babel or webpack
 **Link(s) to work**:
 
 No work, nothing done!! Wasted a day looking at 'stuff'
+
+---
+
+### Day 072: 2017-03-12
+
+**Today's Progress**:
+
+AM: React - YouTube vids
+
+PM: React - My own Calorie Counter app, not a great deal done
+
+**Thoughts**:
+
+Still ots to lean about React
+
+**Up Next**:
+
+React
+
+**Link(s) to work**:
+
+[c-counter](https://github.com/spences10/c-counter)
 
 ---
 
