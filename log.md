@@ -78,6 +78,7 @@
     - [Day 072: 2017-03-12](#day-072-2017-03-12)
     - [Day 073: 2017-03-13](#day-073-2017-03-13)
     - [Day 074: 2017-03-14](#day-074-2017-03-14)
+    - [Day 075: 2017-03-15](#day-075-2017-03-15)
 
 <!-- /TOC -->
 
@@ -1974,6 +1975,28 @@ Quite like Yarn :+1:
 ---
 
 ### Day 074: 2017-03-14
+
+**Today's Progress**:
+
+AM: JavaScript stack from scratch, Folw, Jeast and Husky
+
+PM: :sweat_smile:Redux, Immutable, and Fetch:sweat_smile:
+
+**Thoughts**:
+
+Phew! That was intense!!
+
+**Up Next**:
+
+React Router, Server-Side Rendering, Helmet
+
+**Link(s) to work**:
+
+[javascript-stack-from-scratch](https://github.com/spences10/javascript-stack-from-scratch)
+
+---
+
+### Day 075: 2017-03-15
 
 **Today's Progress**:
 
