@@ -79,6 +79,7 @@
     - [Day 073: 2017-03-13](#day-073-2017-03-13)
     - [Day 074: 2017-03-14](#day-074-2017-03-14)
     - [Day 075: 2017-03-15](#day-075-2017-03-15)
+    - [Day 076: 2017-03-16](#day-076-2017-03-16)
 
 <!-- /TOC -->
 
@@ -1997,6 +1998,26 @@ React Router, Server-Side Rendering, Helmet
 ---
 
 ### Day 075: 2017-03-15
+
+**Today's Progress**:
+
+React Router, Server-Side Rendering, and Helmet
+
+**Thoughts**:
+
+Man! This thing is a whopper!! :whale:
+
+**Up Next**:
+
+Socket.IO
+
+**Link(s) to work**:
+
+[javascript-stack-from-scratch](https://github.com/spences10/javascript-stack-from-scratch)
+
+---
+
+### Day 076: 2017-03-16
 
 **Today's Progress**:
 
