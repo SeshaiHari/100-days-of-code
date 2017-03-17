@@ -80,6 +80,8 @@
     - [Day 074: 2017-03-14](#day-074-2017-03-14)
     - [Day 075: 2017-03-15](#day-075-2017-03-15)
     - [Day 076: 2017-03-16](#day-076-2017-03-16)
+    - [Day 077: 2017-03-17](#day-077-2017-03-17)
+    - [Day 078: 2017-03-18](#day-078-2017-03-18)
 
 <!-- /TOC -->
 
@@ -2018,6 +2020,46 @@ Socket.IO
 ---
 
 ### Day 076: 2017-03-16
+
+**Today's Progress**:
+
+:wrench:Socket.io:wrench:
+
+**Thoughts**:
+
+**Up Next**:
+
+Deploy to Heroku
+
+**Link(s) to work**:
+
+[javascript-stack-from-scratch](https://github.com/spences10/javascript-stack-from-scratch)
+
+---
+
+### Day 077: 2017-03-17
+
+**Today's Progress**:
+
+Deployed to heroku
+
+**Thoughts**:
+
+Heroku documentation was a bit sparse on setting up a pipeline, I'm still not sure I have done it correctly 
+
+This is a great stack and helped fill some knowledge gaps I had
+
+**Up Next**:
+
+Will review my [personal-goals](https://github.com/spences10/personal-goals) and see if there's anything to pick from there
+
+**Link(s) to work**:
+
+[javascript-stack-boilerplate](https://github.com/spences10/javascript-stack-boilerplate)
+
+---
+
+### Day 078: 2017-03-18
 
 **Today's Progress**:
 
