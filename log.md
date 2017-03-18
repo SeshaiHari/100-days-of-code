@@ -82,6 +82,7 @@
     - [Day 076: 2017-03-16](#day-076-2017-03-16)
     - [Day 077: 2017-03-17](#day-077-2017-03-17)
     - [Day 078: 2017-03-18](#day-078-2017-03-18)
+    - [Day 079: 2017-03-19](#day-079-2017-03-19)
 
 <!-- /TOC -->
 
@@ -2060,6 +2061,20 @@ Will review my [personal-goals](https://github.com/spences10/personal-goals) and
 ---
 
 ### Day 078: 2017-03-18
+
+**Today's Progress**:
+
+Started out a personal portfolio page in react, App component :+1: rest of stack that goes with that `react-scripts` ftw!
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 079: 2017-03-19
 
 **Today's Progress**:
 
