@@ -83,6 +83,8 @@
     - [Day 077: 2017-03-17](#day-077-2017-03-17)
     - [Day 078: 2017-03-18](#day-078-2017-03-18)
     - [Day 079: 2017-03-19](#day-079-2017-03-19)
+    - [Day 080: 2017-03-20](#day-080-2017-03-20)
+    - [Day 081: 2017-03-21](#day-081-2017-03-21)
 
 <!-- /TOC -->
 
@@ -2075,6 +2077,34 @@ Started out a personal portfolio page in react, App component :+1: rest of stack
 ---
 
 ### Day 079: 2017-03-19
+
+**Today's Progress**:
+
+looking at stylus for my portfolio page using react
+
+**Thoughts**:
+
+Why does no one talk about how mus of an arseache CSS is?
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 080: 2017-03-20
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+---
+
+### Day 081: 2017-03-21
 
 **Today's Progress**:
 
