@@ -2096,11 +2096,17 @@ Why does no one talk about how mus of an arseache CSS is?
 
 **Today's Progress**:
 
+Style, added some styles to my react portfolio page
+
 **Thoughts**:
 
 **Up Next**:
 
+Moar styles
+
 **Link(s) to work**:
+
+[spences10.github.io.react](https://github.com/spences10/spences10.github.io.react)
 
 ---
 
