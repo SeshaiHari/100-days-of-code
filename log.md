@@ -85,6 +85,7 @@
     - [Day 079: 2017-03-19](#day-079-2017-03-19)
     - [Day 080: 2017-03-20](#day-080-2017-03-20)
     - [Day 081: 2017-03-21](#day-081-2017-03-21)
+    - [Day 082: 2017-03-22](#day-082-2017-03-22)
 
 <!-- /TOC -->
 
@@ -2111,6 +2112,24 @@ Moar styles
 ---
 
 ### Day 081: 2017-03-21
+
+**Today's Progress**:
+
+Added Parallax header and did some more styeling
+
+**Thoughts**:
+
+Had some random margin appear and spent hours trying to correct it
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[spences10.github.io.react](https://github.com/spences10/spences10.github.io.react)
+
+---
+
+### Day 082: 2017-03-22
 
 **Today's Progress**:
 
