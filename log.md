@@ -87,6 +87,7 @@
     - [Day 081: 2017-03-21](#day-081-2017-03-21)
     - [Day 082: 2017-03-22](#day-082-2017-03-22)
     - [Day 083: 2017-03-23](#day-083-2017-03-23)
+    - [Day 084: 2017-03-24](#day-084-2017-03-24)
 
 <!-- /TOC -->
 
@@ -2149,6 +2150,26 @@ User agent stylesheet! Spend an age trying to work out what went wrong here
 ---
 
 ### Day 083: 2017-03-23
+
+**Today's Progress**:
+
+More styling of my personal portfolio page
+
+**Thoughts**:
+
+Not totally sure I like react-headroom or if it's just my crappy styling
+
+**Up Next**:
+
+moar page!!
+
+**Link(s) to work**:
+
+[spences10.github.io.react](https://github.com/spences10/spences10.github.io.react)
+
+---
+
+### Day 084: 2017-03-24
 
 **Today's Progress**:
 
