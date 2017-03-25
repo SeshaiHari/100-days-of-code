@@ -88,6 +88,7 @@
     - [Day 082: 2017-03-22](#day-082-2017-03-22)
     - [Day 083: 2017-03-23](#day-083-2017-03-23)
     - [Day 084: 2017-03-24](#day-084-2017-03-24)
+    - [Day 085: 2017-03-25](#day-085-2017-03-25)
 
 <!-- /TOC -->
 
@@ -2170,6 +2171,26 @@ moar page!!
 ---
 
 ### Day 084: 2017-03-24
+
+**Today's Progress**:
+
+Added react-springy-parallax, got rid of react-headroom, did more styling
+
+**Thoughts**:
+
+react-springy-parallax has weird gaps in it, I'm trying to work out what it is causing it but it's taking up all my spare time
+
+**Up Next**:
+
+more page
+
+**Link(s) to work**:
+
+[spences10.github.io.react](https://github.com/spences10/spences10.github.io.react)
+
+---
+
+### Day 085: 2017-03-25
 
 **Today's Progress**:
 
