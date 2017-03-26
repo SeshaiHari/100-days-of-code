@@ -90,6 +90,7 @@
     - [Day 084: 2017-03-24](#day-084-2017-03-24)
     - [Day 085: 2017-03-25](#day-085-2017-03-25)
     - [Day 086: 2017-03-26](#day-086-2017-03-26)
+    - [Day 087: 2017-03-27](#day-087-2017-03-27)
 
 <!-- /TOC -->
 
@@ -2195,7 +2196,7 @@ more page
 
 **Today's Progress**:
 
-Played with create-react-app on my phone with termux, did some styling on my react portfolio page
+Played with create-react-app on my phone with termux, did some styling on my react portfolio page, read through [https://facebook.github.io/react/tutorial/tutorial.html](https://facebook.github.io/react/tutorial/tutorial.html)
 
 **Thoughts**:
 
@@ -2210,6 +2211,24 @@ Slow going is slow, it's the styling that is sucking up all my time
 ---
 
 ### Day 086: 2017-03-26
+
+**Today's Progress**:
+
+Styling, again, create-react-app attempt to use separate css for each component
+
+**Thoughts**:
+
+So many tutorials on the web saying "just use this css file so you can concentrate on the JavaScript" I have spent days faffing around with styling the page, so much so I've lost all interest in it.
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[spences10.github.io.react](https://github.com/spences10/spences10.github.io.react)
+
+---
+
+### Day 087: 2017-03-27
 
 **Today's Progress**:
 
