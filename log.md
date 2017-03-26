@@ -89,6 +89,7 @@
     - [Day 083: 2017-03-23](#day-083-2017-03-23)
     - [Day 084: 2017-03-24](#day-084-2017-03-24)
     - [Day 085: 2017-03-25](#day-085-2017-03-25)
+    - [Day 086: 2017-03-26](#day-086-2017-03-26)
 
 <!-- /TOC -->
 
@@ -2191,6 +2192,24 @@ more page
 ---
 
 ### Day 085: 2017-03-25
+
+**Today's Progress**:
+
+Played with create-react-app on my phone with termux, did some styling on my react portfolio page
+
+**Thoughts**:
+
+Slow going is slow, it's the styling that is sucking up all my time
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[spences10.github.io.react](https://github.com/spences10/spences10.github.io.react)
+
+---
+
+### Day 086: 2017-03-26
 
 **Today's Progress**:
 
