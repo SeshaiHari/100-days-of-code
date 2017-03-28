@@ -91,6 +91,7 @@
     - [Day 085: 2017-03-25](#day-085-2017-03-25)
     - [Day 086: 2017-03-26](#day-086-2017-03-26)
     - [Day 087: 2017-03-27](#day-087-2017-03-27)
+    - [Day 088: 2017-03-28](#day-088-2017-03-28)
 
 <!-- /TOC -->
 
@@ -2229,6 +2230,26 @@ So many tutorials on the web saying "just use this css file so you can concentra
 ---
 
 ### Day 087: 2017-03-27
+
+**Today's Progress**:
+
+Styling, again, this time styled the social links used flexbox and then styled the nav items
+
+**Thoughts**:
+
+Styling is sucking up all my time, is it just me?
+
+**Up Next**:
+
+Page navigation
+
+**Link(s) to work**:
+
+[spences10.github.io.react](https://github.com/spences10/spences10.github.io.react)
+
+---
+
+### Day 088: 2017-03-28
 
 **Today's Progress**:
 
