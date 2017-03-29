@@ -92,6 +92,7 @@
     - [Day 086: 2017-03-26](#day-086-2017-03-26)
     - [Day 087: 2017-03-27](#day-087-2017-03-27)
     - [Day 088: 2017-03-28](#day-088-2017-03-28)
+    - [Day 089: 2017-03-29](#day-089-2017-03-29)
 
 <!-- /TOC -->
 
@@ -2250,6 +2251,26 @@ Page navigation
 ---
 
 ### Day 088: 2017-03-28
+
+**Today's Progress**:
+
+Passed the `scrollTo` function to the `Nav` component to use there by clicking links
+
+**Thoughts**:
+
+Getting links to work with `react-springy-parallax` sucked up all my time, got it working in a fashion, but still not working properly.
+
+Logged an issue with the repo maintainer to ask how to use cirrectly
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[spences10.github.io.react](https://github.com/spences10/spences10.github.io.react)
+
+---
+
+### Day 089: 2017-03-29
 
 **Today's Progress**:
 
