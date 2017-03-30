@@ -94,6 +94,7 @@
     - [Day 088: 2017-03-28](#day-088-2017-03-28)
     - [Day 089: 2017-03-29](#day-089-2017-03-29)
     - [Day 090: 2017-03-30](#day-090-2017-03-30)
+    - [Day 091: 2017-03-31](#day-091-2017-03-31)
 
 <!-- /TOC -->
 
@@ -2292,6 +2293,26 @@ Add details of projects
 ---
 
 ### Day 090: 2017-03-30
+
+**Today's Progress**:
+
+React portfolio, got rid of `react-springy-parallax` as I couldn't capture the `onClick` event in react for the `scrollTo` event, added back in the `Nav` component
+
+**Thoughts**:
+
+Wasted so much time on styling and `react-springy-parallax`
+
+**Up Next**:
+
+Add `react-headroom` back into the portfolio now :+1:
+
+**Link(s) to work**:
+
+[spences10.github.io.react](https://github.com/spences10/spences10.github.io.react)
+
+---
+
+### Day 091: 2017-03-31
 
 **Today's Progress**:
 
