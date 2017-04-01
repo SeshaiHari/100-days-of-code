@@ -95,6 +95,7 @@
     - [Day 089: 2017-03-29](#day-089-2017-03-29)
     - [Day 090: 2017-03-30](#day-090-2017-03-30)
     - [Day 091: 2017-03-31](#day-091-2017-03-31)
+    - [Day 092: 2017-04-01](#day-092-2017-04-01)
 
 <!-- /TOC -->
 
@@ -2313,6 +2314,26 @@ Add `react-headroom` back into the portfolio now :+1:
 ---
 
 ### Day 091: 2017-03-31
+
+**Today's Progress**:
+
+Got most of the way through the React tic tac toe tutorial
+
+**Thoughts**:
+
+The documentation for the react tutorial isn't great, I spent a good 90 minutes trying to resolve the last section of it
+
+**Up Next**:
+
+Complete the tutorial
+
+**Link(s) to work**:
+
+[react-tic-tac-toe](https://github.com/spences10/react-tic-tac-toe)
+
+---
+
+### Day 092: 2017-04-01
 
 **Today's Progress**:
 
