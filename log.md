@@ -96,6 +96,7 @@
     - [Day 090: 2017-03-30](#day-090-2017-03-30)
     - [Day 091: 2017-03-31](#day-091-2017-03-31)
     - [Day 092: 2017-04-01](#day-092-2017-04-01)
+    - [Day 093: 2017-04-02](#day-093-2017-04-02)
 
 <!-- /TOC -->
 
@@ -2334,6 +2335,28 @@ Complete the tutorial
 ---
 
 ### Day 092: 2017-04-01
+
+**Today's Progress**:
+
+Completed the tic tac toe tutorial
+
+**Thoughts**:
+
+The documentation isn't great and although I did learn a bit about react I found the tutorial to be janky where you had to flit around to see what you had done previously
+
+**Up Next**:
+
+More react 
+
+**Link(s) to work**:
+
+[react-tic-tac-toe](https://github.com/spences10/react-tic-tac-toe)
+
+[on Now.sh :+1:](https://ns-hlekbxcghs.now.sh/)
+
+---
+
+### Day 093: 2017-04-02
 
 **Today's Progress**:
 
