@@ -97,6 +97,7 @@
     - [Day 091: 2017-03-31](#day-091-2017-03-31)
     - [Day 092: 2017-04-01](#day-092-2017-04-01)
     - [Day 093: 2017-04-02](#day-093-2017-04-02)
+    - [Day 094: 2017-04-03](#day-094-2017-04-03)
 
 <!-- /TOC -->
 
@@ -2357,6 +2358,26 @@ More react
 ---
 
 ### Day 093: 2017-04-02
+
+**Today's Progress**:
+
+Made just another markdown previewer which I'm going to use the library `marked` with
+
+**Thoughts**:
+
+used `create-react-app` to scaffold out the base of the app super quick, added my ESLint configuration
+
+**Up Next**:
+
+Integrate marked with the text area
+
+**Link(s) to work**:
+
+soon
+
+---
+
+### Day 094: 2017-04-03
 
 **Today's Progress**:
 
