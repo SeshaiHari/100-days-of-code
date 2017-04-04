@@ -98,6 +98,8 @@
     - [Day 092: 2017-04-01](#day-092-2017-04-01)
     - [Day 093: 2017-04-02](#day-093-2017-04-02)
     - [Day 094: 2017-04-03](#day-094-2017-04-03)
+    - [Day 095: 2017-04-04](#day-095-2017-04-04)
+    - [Day 096: 2017-04-05](#day-096-2017-04-05)
 
 <!-- /TOC -->
 
@@ -2378,6 +2380,46 @@ soon
 ---
 
 ### Day 094: 2017-04-03
+
+**Today's Progress**:
+
+Styling JAMP
+
+**Thoughts**:
+
+CSS is a pia
+
+**Up Next**:
+
+Put jamp on now.sh
+
+**Link(s) to work**:
+
+[https://github.com/spences10/jamp](https://github.com/spences10/jamp)
+
+---
+
+### Day 095: 2017-04-04
+
+**Today's Progress**:
+
+Styling jamp and adding to now.sh
+
+**Thoughts**:
+
+Not a fan of styling
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[https://github.com/spences10/jamp](https://github.com/spences10/jamp)
+
+[https://build-aqrhhvtgge.now.sh/](https://build-aqrhhvtgge.now.sh/)
+
+---
+
+### Day 096: 2017-04-05
 
 **Today's Progress**:
 
