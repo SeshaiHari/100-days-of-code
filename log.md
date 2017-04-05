@@ -100,6 +100,7 @@
     - [Day 094: 2017-04-03](#day-094-2017-04-03)
     - [Day 095: 2017-04-04](#day-095-2017-04-04)
     - [Day 096: 2017-04-05](#day-096-2017-04-05)
+    - [Day 097: 2017-04-06](#day-097-2017-04-06)
 
 <!-- /TOC -->
 
@@ -2420,6 +2421,28 @@ Not a fan of styling
 ---
 
 ### Day 096: 2017-04-05
+
+**Today's Progress**:
+
+Started putting together a cheat sheet of all the ES6 JavaScript and normal JavaScript I am/have learned, the reason why? I spent hours trying to do the `Symmetric Difference` freeCodeCamp challenge, so much so that I questioned how much JavaScript I really knew.
+
+**Thoughts**:
+
+Good ol Wes Bos, such an awesome course that ES6 for everyone :heart: it
+
+**Up Next**:
+
+Maybe take a look at [gatsby](https://github.com/gatsbyjs/gatsby)
+
+**Link(s) to work**:
+
+[Symmetric Difference](https://github.com/spences10/freeCodeCamp/blob/master/Font%20End%20Development%20Certification/Advanced%20Algorithm%20Scripting/03%20Symmetric%20Difference.js)
+
+[es6-cheat-sheet](https://github.com/spences10/es6-cheat-sheet)
+
+---
+
+### Day 097: 2017-04-06
 
 **Today's Progress**:
 
