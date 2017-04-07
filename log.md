@@ -102,6 +102,7 @@
     - [Day 096: 2017-04-05](#day-096-2017-04-05)
     - [Day 097: 2017-04-06](#day-097-2017-04-06)
     - [Day 098: 2017-04-07](#day-098-2017-04-07)
+    - [Day 099: 2017-04-08](#day-099-2017-04-08)
 
 <!-- /TOC -->
 
@@ -2464,6 +2465,22 @@ Company bootstrap theme
 ---
 
 ### Day 098: 2017-04-07
+
+**Today's Progress**:
+
+Made a cat corp company website 
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+[https://spences10.github.io/30-days-30-sites/02-company/](https://spences10.github.io/30-days-30-sites/02-company/)
+
+---
+
+### Day 099: 2017-04-08
 
 **Today's Progress**:
 
