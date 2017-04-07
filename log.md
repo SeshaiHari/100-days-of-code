@@ -101,6 +101,7 @@
     - [Day 095: 2017-04-04](#day-095-2017-04-04)
     - [Day 096: 2017-04-05](#day-096-2017-04-05)
     - [Day 097: 2017-04-06](#day-097-2017-04-06)
+    - [Day 098: 2017-04-07](#day-098-2017-04-07)
 
 <!-- /TOC -->
 
@@ -2443,6 +2444,26 @@ Maybe take a look at [gatsby](https://github.com/gatsbyjs/gatsby)
 ---
 
 ### Day 097: 2017-04-06
+
+**Today's Progress**:
+
+Started with 30 days 30 sites, made a simple bootstrap theme
+
+**Thoughts**:
+
+Enjoyed it
+
+**Up Next**:
+
+Company bootstrap theme
+
+**Link(s) to work**:
+
+[https://spences10.github.io/30-days-30-sites/01-simply-me](https://spences10.github.io/30-days-30-sites/01-simply-me)
+
+---
+
+### Day 098: 2017-04-07
 
 **Today's Progress**:
 
