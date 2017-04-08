@@ -2484,6 +2484,22 @@ Made a cat corp company website
 
 **Today's Progress**:
 
+Looked at the 100 days of code Twitter bot, stuff didn't work, got fed up, started looking at getting es6 syntax working with node.js
+
+**Thoughts**:
+
+**Up Next**:
+
+**Link(s) to work**:
+
+No links
+
+---
+
+### Day 10p: 2017-04-09
+
+**Today's Progress**:
+
 **Thoughts**:
 
 **Up Next**:
