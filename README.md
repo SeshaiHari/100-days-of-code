@@ -1,5 +1,9 @@
 # I've joined the #100DaysOfCode Challenge.
 
+## Completed 2017-04-09
+
+![](img\github-contrib.png)
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)

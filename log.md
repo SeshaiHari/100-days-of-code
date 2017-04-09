@@ -103,6 +103,7 @@
     - [Day 097: 2017-04-06](#day-097-2017-04-06)
     - [Day 098: 2017-04-07](#day-098-2017-04-07)
     - [Day 099: 2017-04-08](#day-099-2017-04-08)
+    - [Day 100: 2017-04-09](#day-100-2017-04-09)
 
 <!-- /TOC -->
 
@@ -2496,12 +2497,24 @@ No links
 
 ---
 
-### Day 10p: 2017-04-09
+### Day 100: 2017-04-09
 
 **Today's Progress**:
 
+Made a two PRs to the 100DoC Twitter bot repo, added `dotenv`, fixed the broken `sentimentBot()`
+
 **Thoughts**:
+
+YAYAYAYAYAY!! 100 days done!!
 
 **Up Next**:
 
+Holiday!!
+
+I'm going to try keep my streak going whilst away for easter
+
 **Link(s) to work**:
+
+https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/71
+
+https://github.com/freeCodeCamp/100DaysOfCode-twitter-bot/pull/72
