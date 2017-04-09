@@ -2,7 +2,7 @@
 
 ## Completed 2017-04-09
 
-![](img\github-contrib.png)
+![](img/github-contrib.png)
 
 ## Contents
 * [Rules](rules.md)
